@@ -12,12 +12,10 @@ import li.winston.cateserver.data.parsed.work.ExerciseType;
 import li.winston.cateserver.data.parsed.work.Subject;
 import li.winston.cateserver.data.parsed.work.Work;
 import li.winston.cateserver.transport.net.CateNetTransport;
+import li.winston.cateserver.util.Log;
 import org.apache.commons.lang.ArrayUtils;
 import org.apache.commons.lang.StringUtils;
-import org.htmlcleaner.ContentNode;
-import org.htmlcleaner.HtmlCleaner;
-import org.htmlcleaner.TagNode;
-import org.htmlcleaner.XPatherException;
+import org.htmlcleaner.*;
 
 import java.io.IOException;
 import java.io.InputStream;
@@ -25,6 +23,8 @@ import java.time.*;
 import java.time.format.DateTimeFormatter;
 import java.time.temporal.TemporalAdjusters;
 import java.util.*;
+import java.util.function.Function;
+import java.util.function.Supplier;
 import java.util.stream.Collectors;
 import java.util.stream.IntStream;
 
@@ -35,8 +35,49 @@ public class PageScraper {
 
     private final HtmlCleaner parser = new HtmlCleaner();
 
-    public Personal parsePersonal(InputStream in) throws IOException {
+    private static String asHtmlString(TagNode root) {
+        return new PrettyXmlSerializer(((Supplier<CleanerProperties>) () -> {
+            CleanerProperties conf = new CleanerProperties();
+            conf.setOmitXmlDeclaration(true);
+            return conf;
+        }).get()).getAsString(root);
+    }
+
+    private <R> R parse(InputStream in, Function<TagNode, R> f) throws IOException {
         TagNode htmlRoot = parser.clean(in);
+        try {
+            return f.apply(htmlRoot);
+        } catch (Throwable t) {
+            Log.warn(
+                    "Exception thrown when parsing: html dumped\n"
+                            + asHtmlString(htmlRoot),
+                    t
+            );
+            throw new RuntimeException(t);
+        }
+    }
+
+    public Personal parsePersonal(InputStream in) throws IOException {
+        return parse(in, this::doParsePersonal);
+    }
+
+    public Work parseWork(InputStream in) throws IOException {
+        return parse(in, this::doParseWork);
+    }
+
+    public Timetable parseTimetable(InputStream in) throws IOException {
+        return parse(in, this::doParseTimetable);
+    }
+
+    public Handin parseHandin(InputStream in) throws IOException {
+        return parse(in, this::doParseHandin);
+    }
+
+    public SubjectNotes parseNotes(InputStream in) throws IOException {
+        return parse(in, this::doParseNotes);
+    }
+
+    private Personal doParsePersonal(TagNode htmlRoot) {
         TagNode tbodyUserInfo = htmlRoot.getElementsByName("tbody", true)[1];
         TagNode[] trRows = tbodyUserInfo.getElementsByName("tr", false);
 
@@ -100,9 +141,7 @@ public class PageScraper {
             period);
     }
 
-    public Work parseWork(InputStream in) throws IOException {
-        TagNode htmlRoot = parser.clean(in);
-
+    private Work doParseWork(TagNode htmlRoot) {
         LocalDateTime startDate = parseTimetableStartDate(htmlRoot);
 
         LocalDateTime today = parseTimetableToday(htmlRoot, startDate);
@@ -112,9 +151,8 @@ public class PageScraper {
         return new Work(today, startDate.with(TemporalAdjusters.nextOrSame(DayOfWeek.MONDAY)), subjects);
     }
 
-    public Timetable parseTimetable(InputStream in) throws IOException {
+    private Timetable doParseTimetable(TagNode htmlRoot) {
         Timetable timetable = new Timetable();
-        TagNode htmlRoot = parser.clean(in);
         TagNode[] trs;
         try {
             trs = ((TagNode) htmlRoot.evaluateXPath("//*[@id='timetable-container']")[0]).getElementsByName("tbody", true)[0].getElementsByName("tr", false);
@@ -406,8 +444,7 @@ public class PageScraper {
         return exercises;
     }
 
-    public Handin parseHandin(InputStream in) throws IOException {
-        TagNode htmlRoot = parser.clean(in);
+    private Handin doParseHandin(TagNode htmlRoot) {
         TagNode tdWithDueTime = htmlRoot.getElementsByName("body", false)[0].getElementsByName("ul", false)[1].getElementsByName("tbody", true)[1].getElementsByName("tr", false)[1].getElementsByName("td", false)[3];
         String dueDate = StringUtils.substringBefore(tdWithDueTime.getText().toString().split(" - ")[1], "*");
         LocalDateTime due = LocalDateTime.parse(dueDate, DateTimeFormatter.ofPattern("d MMM yyyy(H:m)"));
@@ -416,8 +453,7 @@ public class PageScraper {
         return new Handin(due, submitted);
     }
 
-    public SubjectNotes parseNotes(InputStream in) throws IOException {
-        TagNode htmlRoot = parser.clean(in);
+    private SubjectNotes doParseNotes(TagNode htmlRoot) {
         String courseId = parseNotesCourseId(htmlRoot);
         List<Note> noteList = parseNoteList(htmlRoot.getElementsByName("form", true)[0].getElementsByName("tbody", true)[1]);
         return new SubjectNotes(courseId, noteList);

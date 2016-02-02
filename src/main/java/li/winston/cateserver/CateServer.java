@@ -11,8 +11,8 @@ import java.util.Arrays;
 public class CateServer {
 
     public static void main(String[] args) throws ClassNotFoundException {
-        if (args.length == 0) {
-            System.err.println("usage: CateServer [port] [motd_file] [p12_file] [timetable_dir]");
+        if (args.length < 4) {
+            System.err.println("usage: CateServer [port] [motd_file] [p12_file] [timetable_dir] [authmapper_file]");
             System.exit(1);
         }
         Log.info("args: {}", Arrays.toString(args));
