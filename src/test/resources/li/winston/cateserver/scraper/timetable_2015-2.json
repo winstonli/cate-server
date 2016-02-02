@@ -1,0 +1,35 @@
+{
+    "subjects": [
+        {
+            "id": "401",
+            "name": "Individual Project MEng",
+            "notesUrl": null,
+            "exercises": [
+                {
+                    "name": "Interim Report",
+                    "category": "REP",
+                    "type": "GREY",
+                    "sequence": 1,
+                    "startTime": "2015-11-10T00:00Z",
+                    "endDay": "2016-01-30T00:00Z",
+                    "ownerEmail": "axgopala@imperial.ac.uk",
+                    "handinUrl": "https://cate.doc.ic.ac.uk/handins.cgi?key=2015:2:120:c4:new:wl3912",
+                    "givenUrl": null,
+                    "specUrl": null
+                },
+                {
+                    "name": "Preliminary Source Code Archive",
+                    "category": "PROJ",
+                    "type": "GREY",
+                    "sequence": 4,
+                    "startTime": "2015-11-10T00:00Z",
+                    "endDay": "2016-06-28T00:00Z",
+                    "ownerEmail": "axgopala@imperial.ac.uk",
+                    "handinUrl": "https://cate.doc.ic.ac.uk/handins.cgi?key=2015:2:128:c4:new:wl3912",
+                    "givenUrl": null,
+                    "specUrl": null
+                }
+            ]
+        }
+    ]
+}

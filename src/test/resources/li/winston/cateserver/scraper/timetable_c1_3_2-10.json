@@ -1,0 +1,999 @@
+{
+    "days": {
+        "MONDAY": [
+            {
+                "day": "MONDAY",
+                "subjectId": "113",
+                "subjectName": "Architecture",
+                "type": "LECTURE",
+                "weeks": [
+                    2,
+                    3,
+                    4,
+                    5,
+                    6,
+                    7,
+                    8,
+                    9,
+                    10
+                ],
+                "courses": [
+                    "j1",
+                    "c1"
+                ],
+                "rooms": [
+                    "308"
+                ],
+                "lecturers": [
+                    "Wayne Luk",
+                    "Herbert Wiklicky"
+                ],
+                "startTime": "10:00",
+                "endTime": "11:00"
+            },
+            {
+                "day": "MONDAY",
+                "subjectId": "113",
+                "subjectName": "Architecture",
+                "type": "LECTURE",
+                "weeks": [
+                    2,
+                    3,
+                    4,
+                    5,
+                    6,
+                    7,
+                    8,
+                    9,
+                    10
+                ],
+                "courses": [
+                    "j1",
+                    "c1"
+                ],
+                "rooms": [
+                    "308"
+                ],
+                "lecturers": [
+                    "Wayne Luk",
+                    "Herbert Wiklicky"
+                ],
+                "startTime": "11:00",
+                "endTime": "12:00"
+            },
+            {
+                "day": "MONDAY",
+                "subjectId": null,
+                "subjectName": "Maths Feedback Session",
+                "type": "LECTURE",
+                "weeks": [
+                    6
+                ],
+                "courses": [
+                    "c1"
+                ],
+                "rooms": [
+                    "308"
+                ],
+                "lecturers": [
+                    "Mahdi Cheraghchi",
+                    "Marc P Deisenroth"
+                ],
+                "startTime": "13:00",
+                "endTime": "14:00"
+            },
+            {
+                "day": "MONDAY",
+                "subjectId": "161",
+                "subjectName": "Laboratory 1",
+                "type": "LAB",
+                "weeks": [
+                    2,
+                    3,
+                    4,
+                    5,
+                    6,
+                    7,
+                    8,
+                    9,
+                    10
+                ],
+                "courses": [
+                    "j1",
+                    "c1"
+                ],
+                "rooms": [
+                    "202",
+                    "206",
+                    "219"
+                ],
+                "lecturers": [
+                    "Maria Valera-Espina"
+                ],
+                "startTime": "14:00",
+                "endTime": "15:00"
+            },
+            {
+                "day": "MONDAY",
+                "subjectId": "161",
+                "subjectName": "Laboratory 1",
+                "type": "LAB",
+                "weeks": [
+                    2,
+                    3,
+                    4,
+                    5,
+                    6,
+                    7,
+                    8,
+                    9,
+                    10
+                ],
+                "courses": [
+                    "j1",
+                    "c1"
+                ],
+                "rooms": [
+                    "202",
+                    "206",
+                    "219"
+                ],
+                "lecturers": [
+                    "Maria Valera-Espina"
+                ],
+                "startTime": "15:00",
+                "endTime": "16:00"
+            },
+            {
+                "day": "MONDAY",
+                "subjectId": "142",
+                "subjectName": "Discrete Mathematics",
+                "type": "LECTURE",
+                "weeks": [
+                    2,
+                    3,
+                    4,
+                    5,
+                    6,
+                    7,
+                    8
+                ],
+                "courses": [
+                    "c1"
+                ],
+                "rooms": [
+                    "311"
+                ],
+                "lecturers": [
+                    "Iain C C Phillips"
+                ],
+                "startTime": "16:00",
+                "endTime": "17:00"
+            },
+            {
+                "day": "MONDAY",
+                "subjectId": "142",
+                "subjectName": "Discrete Mathematics",
+                "type": "LECTURE",
+                "weeks": [
+                    2,
+                    3,
+                    4,
+                    5,
+                    6,
+                    7,
+                    8
+                ],
+                "courses": [
+                    "c1"
+                ],
+                "rooms": [
+                    "311"
+                ],
+                "lecturers": [
+                    "Iain C C Phillips"
+                ],
+                "startTime": "17:00",
+                "endTime": "18:00"
+            },
+            {
+                "day": "MONDAY",
+                "subjectId": null,
+                "subjectName": "Computing Ad Hoc",
+                "type": "Meeting",
+                "weeks": [
+                    8
+                ],
+                "courses": [
+                    "j1",
+                    "j2",
+                    "c1",
+                    "c2"
+                ],
+                "rooms": [],
+                "lecturers": [
+                    "Dominic McDonagh"
+                ],
+                "startTime": "17:00",
+                "endTime": "18:00"
+            }
+        ],
+        "TUESDAY": [
+            {
+                "day": "TUESDAY",
+                "subjectId": "141",
+                "subjectName": "Reasoning about Programs",
+                "type": "LECTURE",
+                "weeks": [
+                    2,
+                    3,
+                    4,
+                    5,
+                    6,
+                    7,
+                    8,
+                    9,
+                    10
+                ],
+                "courses": [
+                    "j1",
+                    "c1"
+                ],
+                "rooms": [
+                    "308"
+                ],
+                "lecturers": [
+                    "Sophia Drossopoulou",
+                    "Mark J Wheelhouse"
+                ],
+                "startTime": "09:00",
+                "endTime": "10:00"
+            },
+            {
+                "day": "TUESDAY",
+                "subjectId": "141",
+                "subjectName": "Reasoning about Programs",
+                "type": "LECTURE",
+                "weeks": [
+                    2,
+                    3,
+                    4,
+                    5,
+                    6,
+                    7,
+                    8,
+                    9,
+                    10
+                ],
+                "courses": [
+                    "j1",
+                    "c1"
+                ],
+                "rooms": [
+                    "308"
+                ],
+                "lecturers": [
+                    "Sophia Drossopoulou",
+                    "Mark J Wheelhouse"
+                ],
+                "startTime": "10:00",
+                "endTime": "11:00"
+            },
+            {
+                "day": "TUESDAY",
+                "subjectId": "130",
+                "subjectName": "Databases I",
+                "type": "LECTURE",
+                "weeks": [
+                    2,
+                    3,
+                    4,
+                    5,
+                    6,
+                    7,
+                    8,
+                    9,
+                    10
+                ],
+                "courses": [
+                    "c1"
+                ],
+                "rooms": [
+                    "308"
+                ],
+                "lecturers": [
+                    "Thomas Heinis"
+                ],
+                "startTime": "11:00",
+                "endTime": "12:00"
+            },
+            {
+                "day": "TUESDAY",
+                "subjectId": null,
+                "subjectName": "Applications of Computing in Industry",
+                "type": "LECTURE",
+                "weeks": [
+                    1,
+                    2,
+                    3,
+                    4,
+                    5,
+                    6,
+                    7,
+                    8,
+                    9,
+                    10
+                ],
+                "courses": [
+                    "s5",
+                    "r5",
+                    "j1",
+                    "j2",
+                    "j3",
+                    "j4",
+                    "c1",
+                    "c2",
+                    "c3",
+                    "c4",
+                    "a5",
+                    "v5"
+                ],
+                "rooms": [
+                    "308"
+                ],
+                "lecturers": [
+                    "William J Knottenbelt",
+                    "Victoria Nicholl"
+                ],
+                "startTime": "12:00",
+                "endTime": "13:00"
+            },
+            {
+                "day": "TUESDAY",
+                "subjectId": null,
+                "subjectName": "Applications of Computing in Industry",
+                "type": "LECTURE",
+                "weeks": [
+                    1,
+                    2,
+                    3,
+                    4,
+                    5,
+                    6,
+                    7,
+                    8,
+                    9,
+                    10
+                ],
+                "courses": [
+                    "s5",
+                    "r5",
+                    "j1",
+                    "j2",
+                    "j3",
+                    "j4",
+                    "c1",
+                    "c2",
+                    "c3",
+                    "c4",
+                    "a5",
+                    "v5"
+                ],
+                "rooms": [
+                    "308"
+                ],
+                "lecturers": [
+                    "William J Knottenbelt",
+                    "Victoria Nicholl"
+                ],
+                "startTime": "13:00",
+                "endTime": "14:00"
+            },
+            {
+                "day": "TUESDAY",
+                "subjectId": "120.2",
+                "subjectName": "Programming II",
+                "type": "LECTURE",
+                "weeks": [
+                    2,
+                    3,
+                    4,
+                    5,
+                    6,
+                    7,
+                    8,
+                    9,
+                    10
+                ],
+                "courses": [
+                    "j1",
+                    "c1"
+                ],
+                "rooms": [
+                    "308"
+                ],
+                "lecturers": [
+                    "Alastair F Donaldson",
+                    "Alessandra M Russo"
+                ],
+                "startTime": "14:00",
+                "endTime": "15:00"
+            },
+            {
+                "day": "TUESDAY",
+                "subjectId": "120.2",
+                "subjectName": "Programming II",
+                "type": "LECTURE",
+                "weeks": [
+                    2,
+                    3,
+                    4,
+                    5,
+                    6,
+                    7,
+                    8,
+                    9,
+                    10
+                ],
+                "courses": [
+                    "j1",
+                    "c1"
+                ],
+                "rooms": [
+                    "308"
+                ],
+                "lecturers": [
+                    "Alastair F Donaldson",
+                    "Alessandra M Russo"
+                ],
+                "startTime": "15:00",
+                "endTime": "16:00"
+            }
+        ],
+        "WEDNESDAY": [
+            {
+                "day": "WEDNESDAY",
+                "subjectId": "113",
+                "subjectName": "Architecture",
+                "type": "LECTURE",
+                "weeks": [
+                    2,
+                    3,
+                    4,
+                    5,
+                    6,
+                    7,
+                    8,
+                    9,
+                    10
+                ],
+                "courses": [
+                    "j1",
+                    "c1"
+                ],
+                "rooms": [
+                    "311"
+                ],
+                "lecturers": [
+                    "Wayne Luk",
+                    "Herbert Wiklicky"
+                ],
+                "startTime": "09:00",
+                "endTime": "10:00"
+            },
+            {
+                "day": "WEDNESDAY",
+                "subjectId": "130",
+                "subjectName": "Databases I",
+                "type": "LECTURE",
+                "weeks": [
+                    2,
+                    3,
+                    4,
+                    5,
+                    6,
+                    7,
+                    8,
+                    9,
+                    10
+                ],
+                "courses": [
+                    "c1"
+                ],
+                "rooms": [
+                    "311"
+                ],
+                "lecturers": [
+                    "Thomas Heinis"
+                ],
+                "startTime": "10:00",
+                "endTime": "11:00"
+            },
+            {
+                "day": "WEDNESDAY",
+                "subjectId": "130",
+                "subjectName": "Databases I",
+                "type": "LECTURE",
+                "weeks": [
+                    2,
+                    3,
+                    4,
+                    5,
+                    6,
+                    7,
+                    8,
+                    9,
+                    10
+                ],
+                "courses": [
+                    "c1"
+                ],
+                "rooms": [
+                    "311"
+                ],
+                "lecturers": [
+                    "Thomas Heinis"
+                ],
+                "startTime": "11:00",
+                "endTime": "12:00"
+            },
+            {
+                "day": "WEDNESDAY",
+                "subjectId": null,
+                "subjectName": "Computing Ad Hoc",
+                "type": "EXAM",
+                "weeks": [
+                    7
+                ],
+                "courses": [
+                    "j1",
+                    "j2",
+                    "c1",
+                    "c2"
+                ],
+                "rooms": [
+                    "642"
+                ],
+                "lecturers": [],
+                "startTime": "11:00",
+                "endTime": "12:00"
+            },
+            {
+                "day": "WEDNESDAY",
+                "subjectId": null,
+                "subjectName": "Computing Ad Hoc",
+                "type": "Meeting",
+                "weeks": [
+                    4,
+                    6
+                ],
+                "courses": [
+                    "j1",
+                    "j2",
+                    "c1",
+                    "c2"
+                ],
+                "rooms": [
+                    "642"
+                ],
+                "lecturers": [],
+                "startTime": "12:00",
+                "endTime": "13:00"
+            },
+            {
+                "day": "WEDNESDAY",
+                "subjectId": null,
+                "subjectName": "Computing Ad Hoc",
+                "type": "EXAM",
+                "weeks": [
+                    7
+                ],
+                "courses": [
+                    "j1",
+                    "j2",
+                    "c1",
+                    "c2"
+                ],
+                "rooms": [
+                    "642"
+                ],
+                "lecturers": [],
+                "startTime": "12:00",
+                "endTime": "13:00"
+            },
+            {
+                "day": "WEDNESDAY",
+                "subjectId": null,
+                "subjectName": "Computing Ad Hoc",
+                "type": "Meeting",
+                "weeks": [
+                    4,
+                    6
+                ],
+                "courses": [
+                    "j1",
+                    "j2",
+                    "c1",
+                    "c2"
+                ],
+                "rooms": [
+                    "642"
+                ],
+                "lecturers": [],
+                "startTime": "13:00",
+                "endTime": "14:00"
+            },
+            {
+                "day": "WEDNESDAY",
+                "subjectId": null,
+                "subjectName": "Computing Ad Hoc",
+                "type": "EXAM",
+                "weeks": [
+                    7
+                ],
+                "courses": [
+                    "j1",
+                    "j2",
+                    "c1",
+                    "c2"
+                ],
+                "rooms": [
+                    "642"
+                ],
+                "lecturers": [],
+                "startTime": "13:00",
+                "endTime": "14:00"
+            }
+        ],
+        "THURSDAY": [
+            {
+                "day": "THURSDAY",
+                "subjectId": "141",
+                "subjectName": "Reasoning about Programs",
+                "type": "LECTURE",
+                "weeks": [
+                    2,
+                    3,
+                    4,
+                    5,
+                    6,
+                    7,
+                    8,
+                    9,
+                    10
+                ],
+                "courses": [
+                    "j1",
+                    "c1"
+                ],
+                "rooms": [
+                    "308"
+                ],
+                "lecturers": [
+                    "Sophia Drossopoulou",
+                    "Mark J Wheelhouse"
+                ],
+                "startTime": "09:00",
+                "endTime": "10:00"
+            },
+            {
+                "day": "THURSDAY",
+                "subjectId": "161",
+                "subjectName": "Laboratory 1",
+                "type": "LAB",
+                "weeks": [
+                    2,
+                    3,
+                    4,
+                    5,
+                    6,
+                    7,
+                    8,
+                    9
+                ],
+                "courses": [
+                    "j1",
+                    "c1"
+                ],
+                "rooms": [
+                    "202",
+                    "206",
+                    "210",
+                    "219"
+                ],
+                "lecturers": [
+                    "Maria Valera-Espina"
+                ],
+                "startTime": "11:00",
+                "endTime": "12:00"
+            },
+            {
+                "day": "THURSDAY",
+                "subjectId": null,
+                "subjectName": "Java Driving Test",
+                "type": "TEST",
+                "weeks": [
+                    10
+                ],
+                "courses": [
+                    "j1",
+                    "c1"
+                ],
+                "rooms": [
+                    "202",
+                    "206",
+                    "210",
+                    "219"
+                ],
+                "lecturers": [
+                    "Maria Valera-Espina"
+                ],
+                "startTime": "11:00",
+                "endTime": "12:00"
+            },
+            {
+                "day": "THURSDAY",
+                "subjectId": "161",
+                "subjectName": "Laboratory 1",
+                "type": "LAB",
+                "weeks": [
+                    2,
+                    3,
+                    4,
+                    5,
+                    6,
+                    7,
+                    8,
+                    9
+                ],
+                "courses": [
+                    "j1",
+                    "c1"
+                ],
+                "rooms": [
+                    "202",
+                    "206",
+                    "210",
+                    "219"
+                ],
+                "lecturers": [
+                    "Maria Valera-Espina"
+                ],
+                "startTime": "12:00",
+                "endTime": "13:00"
+            },
+            {
+                "day": "THURSDAY",
+                "subjectId": null,
+                "subjectName": "Java Driving Test",
+                "type": "TEST",
+                "weeks": [
+                    10
+                ],
+                "courses": [
+                    "j1",
+                    "c1"
+                ],
+                "rooms": [
+                    "202",
+                    "206",
+                    "210",
+                    "219"
+                ],
+                "lecturers": [
+                    "Maria Valera-Espina"
+                ],
+                "startTime": "12:00",
+                "endTime": "13:00"
+            },
+            {
+                "day": "THURSDAY",
+                "subjectId": null,
+                "subjectName": "All Student General",
+                "type": "LECTURE",
+                "weeks": [
+                    2,
+                    3,
+                    4,
+                    5,
+                    6,
+                    7,
+                    8,
+                    9
+                ],
+                "courses": [
+                    "s5",
+                    "r5",
+                    "j1",
+                    "j2",
+                    "j3",
+                    "j4",
+                    "c1",
+                    "c2",
+                    "c3",
+                    "c4",
+                    "a5",
+                    "y5",
+                    "v5"
+                ],
+                "rooms": [
+                    "308"
+                ],
+                "lecturers": [
+                    "Alastair F Donaldson"
+                ],
+                "startTime": "13:00",
+                "endTime": "14:00"
+            },
+            {
+                "day": "THURSDAY",
+                "subjectId": null,
+                "subjectName": "Java Driving Test",
+                "type": "TEST",
+                "weeks": [
+                    10
+                ],
+                "courses": [
+                    "j1",
+                    "c1"
+                ],
+                "rooms": [
+                    "202",
+                    "206",
+                    "210",
+                    "219"
+                ],
+                "lecturers": [
+                    "Maria Valera-Espina"
+                ],
+                "startTime": "13:00",
+                "endTime": "14:00"
+            }
+        ],
+        "FRIDAY": [
+            {
+                "day": "FRIDAY",
+                "subjectId": "142",
+                "subjectName": "Discrete Mathematics",
+                "type": "LECTURE",
+                "weeks": [
+                    2,
+                    3,
+                    4,
+                    5,
+                    6,
+                    7,
+                    8
+                ],
+                "courses": [
+                    "c1"
+                ],
+                "rooms": [
+                    "308"
+                ],
+                "lecturers": [
+                    "Iain C C Phillips"
+                ],
+                "startTime": "11:00",
+                "endTime": "12:00"
+            },
+            {
+                "day": "FRIDAY",
+                "subjectId": "164",
+                "subjectName": "Ethics in Computing 1",
+                "type": "LECTURE",
+                "weeks": [
+                    6,
+                    7,
+                    8,
+                    9,
+                    10
+                ],
+                "courses": [
+                    "j1",
+                    "c1"
+                ],
+                "rooms": [
+                    "308"
+                ],
+                "lecturers": [
+                    "Blay Whitby"
+                ],
+                "startTime": "12:00",
+                "endTime": "13:00"
+            },
+            {
+                "day": "FRIDAY",
+                "subjectId": "120.2",
+                "subjectName": "Programming II",
+                "type": "LECTURE",
+                "weeks": [
+                    2,
+                    3,
+                    4,
+                    5,
+                    6,
+                    7,
+                    8,
+                    9,
+                    10
+                ],
+                "courses": [
+                    "j1",
+                    "c1"
+                ],
+                "rooms": [
+                    "308"
+                ],
+                "lecturers": [
+                    "Alastair F Donaldson",
+                    "Alessandra M Russo"
+                ],
+                "startTime": "15:00",
+                "endTime": "16:00"
+            },
+            {
+                "day": "FRIDAY",
+                "subjectId": "161",
+                "subjectName": "Laboratory 1",
+                "type": "LAB",
+                "weeks": [
+                    2,
+                    3,
+                    4,
+                    5,
+                    6,
+                    7,
+                    8,
+                    9,
+                    10
+                ],
+                "courses": [
+                    "j1",
+                    "c1"
+                ],
+                "rooms": [
+                    "202",
+                    "206",
+                    "219"
+                ],
+                "lecturers": [
+                    "Maria Valera-Espina"
+                ],
+                "startTime": "16:00",
+                "endTime": "17:00"
+            },
+            {
+                "day": "FRIDAY",
+                "subjectId": "161",
+                "subjectName": "Laboratory 1",
+                "type": "LAB",
+                "weeks": [
+                    2,
+                    3,
+                    4,
+                    5,
+                    6,
+                    7,
+                    8,
+                    9,
+                    10
+                ],
+                "courses": [
+                    "j1",
+                    "c1"
+                ],
+                "rooms": [
+                    "202",
+                    "206",
+                    "219"
+                ],
+                "lecturers": [
+                    "Maria Valera-Espina"
+                ],
+                "startTime": "17:00",
+                "endTime": "18:00"
+            }
+        ]
+    }
+}

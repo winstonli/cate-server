@@ -1,0 +1,105 @@
+{
+    "subjectId": "163",
+    "notes": [
+        {
+            "sequence": 1,
+            "specName": "Introduction",
+            "specLink": "https://cate.doc.ic.ac.uk/showfile.cgi?key=2012:3:444:c1:NOTES:wl3912",
+            "fileType": "pdf",
+            "size": 3714518,
+            "loaded": "2013-01-18T15:48:22Z",
+            "owner": "mvalerae",
+            "hits": 168
+        },
+        {
+            "sequence": 2,
+            "specName": "Krysia Broda Extended Slides",
+            "specLink": "https://cate.doc.ic.ac.uk/showfile.cgi?key=2012:3:457:c1:NOTES:wl3912",
+            "fileType": "pdf",
+            "size": 364362,
+            "loaded": "2013-01-11T09:42:24Z",
+            "owner": "kb",
+            "hits": 117
+        },
+        {
+            "sequence": 3,
+            "specName": "Will Knottenbelt Extended Slides",
+            "specLink": "https://cate.doc.ic.ac.uk/showfile.cgi?key=2012:3:462:c1:NOTES:wl3912",
+            "fileType": "pdf",
+            "size": 4922003,
+            "loaded": "2013-01-12T22:46:46Z",
+            "owner": "wjk",
+            "hits": 88
+        },
+        {
+            "sequence": 4,
+            "specName": "Herbert Wiklicky ",
+            "specLink": "https://cate.doc.ic.ac.uk/showfile.cgi?key=2012:3:474:c1:NOTES:wl3912",
+            "fileType": "pdf",
+            "size": 908832,
+            "loaded": "2013-01-14T09:48:20Z",
+            "owner": "mvalerae",
+            "hits": 71
+        },
+        {
+            "sequence": 5,
+            "specName": "Abbas Edalat",
+            "specLink": "https://cate.doc.ic.ac.uk/showfile.cgi?key=2012:3:475:c1:NOTES:wl3912",
+            "fileType": "pdf",
+            "size": 296705,
+            "loaded": "2013-01-14T09:48:44Z",
+            "owner": "mvalerae",
+            "hits": 96
+        },
+        {
+            "sequence": 6,
+            "specName": "David Ham",
+            "specLink": "http://amcg.ese.ic.ac.uk/~dham/topic/slides.html#slide-20",
+            "fileType": "url",
+            "size": 57,
+            "loaded": "2013-01-14T11:47:33Z",
+            "owner": "mvalerae",
+            "hits": 80
+        },
+        {
+            "sequence": 7,
+            "specName": "DulayNaranker",
+            "specLink": "https://cate.doc.ic.ac.uk/showfile.cgi?key=2012:3:479:c1:NOTES:wl3912",
+            "fileType": "pdf",
+            "size": 1156182,
+            "loaded": "2013-01-14T12:53:07Z",
+            "owner": "mvalerae",
+            "hits": 91
+        },
+        {
+            "sequence": 8,
+            "specName": "Duncan Gillies",
+            "specLink": "https://wwwhomes.doc.ic.ac.uk/~dfg/AffectiveComputing/Affective.html",
+            "fileType": "url",
+            "size": 68,
+            "loaded": "2013-01-14T12:54:27Z",
+            "owner": "mvalerae",
+            "hits": 80
+        },
+        {
+            "sequence": 9,
+            "specName": "Peter McBRien",
+            "specLink": "https://cate.doc.ic.ac.uk/showfile.cgi?key=2012:3:489:c1:NOTES:wl3912",
+            "fileType": "pdf",
+            "size": 279337,
+            "loaded": "2013-01-15T11:34:34Z",
+            "owner": "mvalerae",
+            "hits": 103
+        },
+        {
+            "sequence": 10,
+            "specName": "Presentation skills workshop",
+            "specLink": null,
+            "fileType": "pdf",
+            "size": 1299383,
+            "loaded": "2013-03-11T17:13:43Z",
+            "owner": "mvalerae",
+            "hits": 0
+        }
+    ]
+}

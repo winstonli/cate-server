@@ -1,0 +1,1607 @@
+{
+    "days": {
+        "MONDAY": [
+            {
+                "day": "MONDAY",
+                "subjectId": "422",
+                "subjectName": "Computational Finance",
+                "type": "LECTURE",
+                "weeks": [
+                    2,
+                    3,
+                    4,
+                    5,
+                    6,
+                    7,
+                    8,
+                    9
+                ],
+                "courses": [
+                    "c4",
+                    "s5",
+                    "r5",
+                    "a5",
+                    "j4",
+                    "i4",
+                    "h5",
+                    "v5"
+                ],
+                "rooms": [
+                    "145"
+                ],
+                "lecturers": [
+                    "Panos Parpas"
+                ],
+                "startTime": "09:00",
+                "endTime": "10:00"
+            },
+            {
+                "day": "MONDAY",
+                "subjectId": "422",
+                "subjectName": "Computational Finance",
+                "type": "LECTURE",
+                "weeks": [
+                    2,
+                    3,
+                    4,
+                    5,
+                    6,
+                    7,
+                    8,
+                    9
+                ],
+                "courses": [
+                    "c4",
+                    "s5",
+                    "r5",
+                    "a5",
+                    "j4",
+                    "i4",
+                    "h5",
+                    "v5"
+                ],
+                "rooms": [
+                    "145"
+                ],
+                "lecturers": [
+                    "Panos Parpas"
+                ],
+                "startTime": "10:00",
+                "endTime": "11:00"
+            },
+            {
+                "day": "MONDAY",
+                "subjectId": "417",
+                "subjectName": "Advanced Computer Graphics",
+                "type": "LECTURE",
+                "weeks": [
+                    2,
+                    3,
+                    4,
+                    5,
+                    6,
+                    7,
+                    8,
+                    9
+                ],
+                "courses": [
+                    "c4",
+                    "s5",
+                    "r5",
+                    "a5",
+                    "j4",
+                    "i4",
+                    "h5"
+                ],
+                "rooms": [
+                    "144"
+                ],
+                "lecturers": [
+                    "Abhijeet Ghosh"
+                ],
+                "startTime": "11:00",
+                "endTime": "12:00"
+            },
+            {
+                "day": "MONDAY",
+                "subjectId": "417",
+                "subjectName": "Advanced Computer Graphics",
+                "type": "LECTURE",
+                "weeks": [
+                    2,
+                    3,
+                    4,
+                    5,
+                    6,
+                    7,
+                    8,
+                    9
+                ],
+                "courses": [
+                    "c4",
+                    "s5",
+                    "r5",
+                    "a5",
+                    "j4",
+                    "i4",
+                    "h5"
+                ],
+                "rooms": [
+                    "144"
+                ],
+                "lecturers": [
+                    "Abhijeet Ghosh"
+                ],
+                "startTime": "12:00",
+                "endTime": "13:00"
+            },
+            {
+                "day": "MONDAY",
+                "subjectId": "475",
+                "subjectName": "Software Engineering for Industry",
+                "type": "LECTURE",
+                "weeks": [
+                    2,
+                    3,
+                    4,
+                    5,
+                    6,
+                    7,
+                    8,
+                    9
+                ],
+                "courses": [
+                    "c4",
+                    "s5",
+                    "r5",
+                    "a5",
+                    "j4",
+                    "i4",
+                    "h5"
+                ],
+                "rooms": [
+                    "145"
+                ],
+                "lecturers": [
+                    "Robert Chatley",
+                    "Antonio Filieri"
+                ],
+                "startTime": "14:00",
+                "endTime": "15:00"
+            },
+            {
+                "day": "MONDAY",
+                "subjectId": "475",
+                "subjectName": "Software Engineering for Industry",
+                "type": "LECTURE",
+                "weeks": [
+                    2,
+                    3,
+                    4,
+                    5,
+                    6,
+                    7,
+                    8,
+                    9
+                ],
+                "courses": [
+                    "c4",
+                    "s5",
+                    "r5",
+                    "a5",
+                    "j4",
+                    "i4",
+                    "h5"
+                ],
+                "rooms": [
+                    "145"
+                ],
+                "lecturers": [
+                    "Robert Chatley",
+                    "Antonio Filieri"
+                ],
+                "startTime": "15:00",
+                "endTime": "16:00"
+            },
+            {
+                "day": "MONDAY",
+                "subjectId": "493",
+                "subjectName": "Intelligent Data and Probabilistic Inference",
+                "type": "LECTURE",
+                "weeks": [
+                    2,
+                    3,
+                    4,
+                    5,
+                    6,
+                    7,
+                    8,
+                    9
+                ],
+                "courses": [
+                    "c4",
+                    "s5",
+                    "r5",
+                    "a5",
+                    "j4",
+                    "i4",
+                    "h5",
+                    "v5"
+                ],
+                "rooms": [
+                    "308"
+                ],
+                "lecturers": [
+                    "Marc P Deisenroth",
+                    "Duncan F Gillies"
+                ],
+                "startTime": "16:00",
+                "endTime": "17:00"
+            },
+            {
+                "day": "MONDAY",
+                "subjectId": "493",
+                "subjectName": "Intelligent Data and Probabilistic Inference",
+                "type": "LECTURE",
+                "weeks": [
+                    2,
+                    3,
+                    4,
+                    5,
+                    6,
+                    7,
+                    8,
+                    9
+                ],
+                "courses": [
+                    "c4",
+                    "s5",
+                    "r5",
+                    "a5",
+                    "j4",
+                    "i4",
+                    "h5",
+                    "v5"
+                ],
+                "rooms": [
+                    "308"
+                ],
+                "lecturers": [
+                    "Marc P Deisenroth",
+                    "Duncan F Gillies"
+                ],
+                "startTime": "17:00",
+                "endTime": "18:00"
+            }
+        ],
+        "TUESDAY": [
+            {
+                "day": "TUESDAY",
+                "subjectId": "409",
+                "subjectName": "Cryptography Engineering",
+                "type": "LECTURE",
+                "weeks": [
+                    2,
+                    3,
+                    4,
+                    5,
+                    6,
+                    7,
+                    8,
+                    9
+                ],
+                "courses": [
+                    "c4",
+                    "s5",
+                    "r5",
+                    "a5",
+                    "j4",
+                    "h5"
+                ],
+                "rooms": [
+                    "342"
+                ],
+                "lecturers": [
+                    "Michael R A Huth"
+                ],
+                "startTime": "09:00",
+                "endTime": "10:00"
+            },
+            {
+                "day": "TUESDAY",
+                "subjectId": "477",
+                "subjectName": "Computing for Optimal Decisions",
+                "type": "LECTURE",
+                "weeks": [
+                    2,
+                    3,
+                    4,
+                    5,
+                    6,
+                    7,
+                    8,
+                    9
+                ],
+                "courses": [
+                    "c4",
+                    "s5",
+                    "r5",
+                    "a5",
+                    "j4",
+                    "i4",
+                    "h5"
+                ],
+                "rooms": [
+                    "145"
+                ],
+                "lecturers": [
+                    "Ruth Misener",
+                    "Panos Parpas"
+                ],
+                "startTime": "09:00",
+                "endTime": "10:00"
+            },
+            {
+                "day": "TUESDAY",
+                "subjectId": "409",
+                "subjectName": "Cryptography Engineering",
+                "type": "LECTURE",
+                "weeks": [
+                    2,
+                    3,
+                    4,
+                    5,
+                    6,
+                    7,
+                    8,
+                    9
+                ],
+                "courses": [
+                    "c4",
+                    "s5",
+                    "r5",
+                    "a5",
+                    "j4",
+                    "h5"
+                ],
+                "rooms": [
+                    "342"
+                ],
+                "lecturers": [
+                    "Michael R A Huth"
+                ],
+                "startTime": "10:00",
+                "endTime": "11:00"
+            },
+            {
+                "day": "TUESDAY",
+                "subjectId": "477",
+                "subjectName": "Computing for Optimal Decisions",
+                "type": "LECTURE",
+                "weeks": [
+                    2,
+                    3,
+                    4,
+                    5,
+                    6,
+                    7,
+                    8,
+                    9
+                ],
+                "courses": [
+                    "c4",
+                    "s5",
+                    "r5",
+                    "a5",
+                    "j4",
+                    "i4",
+                    "h5"
+                ],
+                "rooms": [
+                    "145"
+                ],
+                "lecturers": [
+                    "Ruth Misener",
+                    "Panos Parpas"
+                ],
+                "startTime": "10:00",
+                "endTime": "11:00"
+            },
+            {
+                "day": "TUESDAY",
+                "subjectId": "495",
+                "subjectName": "Advanced Statistical Machine Learning and Pattern Recognition",
+                "type": "LECTURE",
+                "weeks": [
+                    2,
+                    3,
+                    4,
+                    5,
+                    6,
+                    7,
+                    8,
+                    9
+                ],
+                "courses": [
+                    "c4",
+                    "s5",
+                    "r5",
+                    "a5",
+                    "j4",
+                    "h5"
+                ],
+                "rooms": [
+                    "144"
+                ],
+                "lecturers": [
+                    "Stefanos Zafeiriou"
+                ],
+                "startTime": "11:00",
+                "endTime": "12:00"
+            },
+            {
+                "day": "TUESDAY",
+                "subjectId": null,
+                "subjectName": "Applications of Computing in Industry",
+                "type": "LECTURE",
+                "weeks": [
+                    1,
+                    2,
+                    3,
+                    4,
+                    5,
+                    6,
+                    7,
+                    8,
+                    9,
+                    10
+                ],
+                "courses": [
+                    "s5",
+                    "r5",
+                    "j1",
+                    "j2",
+                    "j3",
+                    "j4",
+                    "c1",
+                    "c2",
+                    "c3",
+                    "c4",
+                    "a5",
+                    "v5"
+                ],
+                "rooms": [
+                    "308"
+                ],
+                "lecturers": [
+                    "William J Knottenbelt",
+                    "Victoria Nicholl"
+                ],
+                "startTime": "12:00",
+                "endTime": "13:00"
+            },
+            {
+                "day": "TUESDAY",
+                "subjectId": "495",
+                "subjectName": "Advanced Statistical Machine Learning and Pattern Recognition",
+                "type": "LECTURE",
+                "weeks": [
+                    2,
+                    3,
+                    4,
+                    5,
+                    6,
+                    7,
+                    8,
+                    9
+                ],
+                "courses": [
+                    "c4",
+                    "s5",
+                    "r5",
+                    "a5",
+                    "j4",
+                    "h5"
+                ],
+                "rooms": [
+                    "144"
+                ],
+                "lecturers": [
+                    "Stefanos Zafeiriou"
+                ],
+                "startTime": "12:00",
+                "endTime": "13:00"
+            },
+            {
+                "day": "TUESDAY",
+                "subjectId": null,
+                "subjectName": "Applications of Computing in Industry",
+                "type": "LECTURE",
+                "weeks": [
+                    1,
+                    2,
+                    3,
+                    4,
+                    5,
+                    6,
+                    7,
+                    8,
+                    9,
+                    10
+                ],
+                "courses": [
+                    "s5",
+                    "r5",
+                    "j1",
+                    "j2",
+                    "j3",
+                    "j4",
+                    "c1",
+                    "c2",
+                    "c3",
+                    "c4",
+                    "a5",
+                    "v5"
+                ],
+                "rooms": [
+                    "308"
+                ],
+                "lecturers": [
+                    "William J Knottenbelt",
+                    "Victoria Nicholl"
+                ],
+                "startTime": "13:00",
+                "endTime": "14:00"
+            },
+            {
+                "day": "TUESDAY",
+                "subjectId": "429",
+                "subjectName": "Parallel Algorithms",
+                "type": "LECTURE",
+                "weeks": [
+                    2,
+                    3,
+                    4,
+                    5,
+                    6,
+                    7,
+                    8,
+                    9
+                ],
+                "courses": [
+                    "c4",
+                    "s5",
+                    "r5",
+                    "o3",
+                    "a5",
+                    "j4",
+                    "i4",
+                    "h5"
+                ],
+                "rooms": [
+                    "145"
+                ],
+                "lecturers": [
+                    "Peter G Harrison",
+                    "William J Knottenbelt"
+                ],
+                "startTime": "14:00",
+                "endTime": "15:00"
+            },
+            {
+                "day": "TUESDAY",
+                "subjectId": "429",
+                "subjectName": "Parallel Algorithms",
+                "type": "LECTURE",
+                "weeks": [
+                    2,
+                    3,
+                    4,
+                    5,
+                    6,
+                    7,
+                    8,
+                    9
+                ],
+                "courses": [
+                    "c4",
+                    "s5",
+                    "r5",
+                    "o3",
+                    "a5",
+                    "j4",
+                    "i4",
+                    "h5"
+                ],
+                "rooms": [
+                    "145"
+                ],
+                "lecturers": [
+                    "Peter G Harrison",
+                    "William J Knottenbelt"
+                ],
+                "startTime": "15:00",
+                "endTime": "16:00"
+            },
+            {
+                "day": "TUESDAY",
+                "subjectId": "412H",
+                "subjectName": "Large Scale Data Management",
+                "type": "LECTURE",
+                "weeks": [
+                    2,
+                    3,
+                    4,
+                    5,
+                    6,
+                    7,
+                    8,
+                    9
+                ],
+                "courses": [
+                    "c4",
+                    "s5",
+                    "r5",
+                    "o3",
+                    "a5",
+                    "j4",
+                    "h5"
+                ],
+                "rooms": [
+                    "341"
+                ],
+                "lecturers": [
+                    "Thomas Heinis"
+                ],
+                "startTime": "16:00",
+                "endTime": "17:00"
+            },
+            {
+                "day": "TUESDAY",
+                "subjectId": "415H",
+                "subjectName": "Body Sensor Networks in the Internet of Things",
+                "type": "LECTURE",
+                "weeks": [
+                    2,
+                    3,
+                    4,
+                    5,
+                    6,
+                    7,
+                    8,
+                    9
+                ],
+                "courses": [
+                    "c4",
+                    "s5",
+                    "r5",
+                    "a5",
+                    "j4",
+                    "h5"
+                ],
+                "rooms": [
+                    "145"
+                ],
+                "lecturers": [
+                    "Benny Lo",
+                    "Guang-Zhong Yang"
+                ],
+                "startTime": "16:00",
+                "endTime": "17:00"
+            },
+            {
+                "day": "TUESDAY",
+                "subjectId": "412H",
+                "subjectName": "Large Scale Data Management",
+                "type": "LECTURE",
+                "weeks": [
+                    2,
+                    3,
+                    4,
+                    5,
+                    6,
+                    7,
+                    8,
+                    9
+                ],
+                "courses": [
+                    "c4",
+                    "s5",
+                    "r5",
+                    "o3",
+                    "a5",
+                    "j4",
+                    "h5"
+                ],
+                "rooms": [
+                    "341"
+                ],
+                "lecturers": [
+                    "Thomas Heinis"
+                ],
+                "startTime": "17:00",
+                "endTime": "18:00"
+            },
+            {
+                "day": "TUESDAY",
+                "subjectId": "415H",
+                "subjectName": "Body Sensor Networks in the Internet of Things",
+                "type": "LECTURE",
+                "weeks": [
+                    2,
+                    3,
+                    4,
+                    5,
+                    6,
+                    7,
+                    8,
+                    9
+                ],
+                "courses": [
+                    "c4",
+                    "s5",
+                    "r5",
+                    "a5",
+                    "j4",
+                    "h5"
+                ],
+                "rooms": [
+                    "145"
+                ],
+                "lecturers": [
+                    "Benny Lo",
+                    "Guang-Zhong Yang"
+                ],
+                "startTime": "17:00",
+                "endTime": "18:00"
+            }
+        ],
+        "WEDNESDAY": [
+            {
+                "day": "WEDNESDAY",
+                "subjectId": "493",
+                "subjectName": "Intelligent Data and Probabilistic Inference",
+                "type": "LECTURE",
+                "weeks": [
+                    2,
+                    3,
+                    4,
+                    5,
+                    6,
+                    7,
+                    8,
+                    9
+                ],
+                "courses": [
+                    "c4",
+                    "s5",
+                    "r5",
+                    "a5",
+                    "j4",
+                    "i4",
+                    "h5",
+                    "v5"
+                ],
+                "rooms": [
+                    "308"
+                ],
+                "lecturers": [
+                    "Marc P Deisenroth",
+                    "Duncan F Gillies"
+                ],
+                "startTime": "09:00",
+                "endTime": "10:00"
+            },
+            {
+                "day": "WEDNESDAY",
+                "subjectId": "493",
+                "subjectName": "Intelligent Data and Probabilistic Inference",
+                "type": "LECTURE",
+                "weeks": [
+                    2,
+                    3,
+                    4,
+                    5,
+                    6,
+                    7,
+                    8,
+                    9
+                ],
+                "courses": [
+                    "c4",
+                    "s5",
+                    "r5",
+                    "a5",
+                    "j4",
+                    "i4",
+                    "h5",
+                    "v5"
+                ],
+                "rooms": [
+                    "308"
+                ],
+                "lecturers": [
+                    "Marc P Deisenroth",
+                    "Duncan F Gillies"
+                ],
+                "startTime": "10:00",
+                "endTime": "11:00"
+            },
+            {
+                "day": "WEDNESDAY",
+                "subjectId": null,
+                "subjectName": "Fourth Year Town Hall Meeting",
+                "type": "",
+                "weeks": [
+                    2
+                ],
+                "courses": [
+                    "c4",
+                    "j4"
+                ],
+                "rooms": [
+                    "342"
+                ],
+                "lecturers": [
+                    "Susan Eisenbach",
+                    "Peter McBrien"
+                ],
+                "startTime": "11:00",
+                "endTime": "12:00"
+            },
+            {
+                "day": "WEDNESDAY",
+                "subjectId": null,
+                "subjectName": "Individual Project Report Talk",
+                "type": "LECTURE",
+                "weeks": [
+                    2
+                ],
+                "courses": [
+                    "c3",
+                    "c4",
+                    "j3",
+                    "j4"
+                ],
+                "rooms": [
+                    "311"
+                ],
+                "lecturers": [
+                    "Anandha Gopalan"
+                ],
+                "startTime": "12:00",
+                "endTime": "13:00"
+            },
+            {
+                "day": "WEDNESDAY",
+                "subjectId": null,
+                "subjectName": "Machine Learning Seminar",
+                "type": "LECTURE",
+                "weeks": [
+                    3
+                ],
+                "courses": [
+                    "c3",
+                    "c4",
+                    "s5",
+                    "r5",
+                    "a5",
+                    "j3",
+                    "j4",
+                    "v5"
+                ],
+                "rooms": [
+                    "311"
+                ],
+                "lecturers": [],
+                "startTime": "14:00",
+                "endTime": "15:00"
+            },
+            {
+                "day": "WEDNESDAY",
+                "subjectId": null,
+                "subjectName": "Machine Learning Seminar",
+                "type": "LECTURE",
+                "weeks": [
+                    5,
+                    7
+                ],
+                "courses": [
+                    "c3",
+                    "c4",
+                    "s5",
+                    "r5",
+                    "a5",
+                    "j3",
+                    "j4",
+                    "v5"
+                ],
+                "rooms": [
+                    "308"
+                ],
+                "lecturers": [],
+                "startTime": "14:00",
+                "endTime": "15:00"
+            },
+            {
+                "day": "WEDNESDAY",
+                "subjectId": null,
+                "subjectName": "Machine Learning Seminar",
+                "type": "LECTURE",
+                "weeks": [
+                    3
+                ],
+                "courses": [
+                    "c3",
+                    "c4",
+                    "s5",
+                    "r5",
+                    "a5",
+                    "j3",
+                    "j4",
+                    "v5"
+                ],
+                "rooms": [
+                    "311"
+                ],
+                "lecturers": [],
+                "startTime": "15:00",
+                "endTime": "16:00"
+            },
+            {
+                "day": "WEDNESDAY",
+                "subjectId": null,
+                "subjectName": "Machine Learning Seminar",
+                "type": "LECTURE",
+                "weeks": [
+                    5,
+                    7
+                ],
+                "courses": [
+                    "c3",
+                    "c4",
+                    "s5",
+                    "r5",
+                    "a5",
+                    "j3",
+                    "j4",
+                    "v5"
+                ],
+                "rooms": [
+                    "308"
+                ],
+                "lecturers": [],
+                "startTime": "15:00",
+                "endTime": "16:00"
+            },
+            {
+                "day": "WEDNESDAY",
+                "subjectId": null,
+                "subjectName": "Machine Learning Seminar",
+                "type": "LECTURE",
+                "weeks": [
+                    3
+                ],
+                "courses": [
+                    "c3",
+                    "c4",
+                    "s5",
+                    "r5",
+                    "a5",
+                    "j3",
+                    "j4",
+                    "v5"
+                ],
+                "rooms": [
+                    "311"
+                ],
+                "lecturers": [],
+                "startTime": "16:00",
+                "endTime": "17:00"
+            },
+            {
+                "day": "WEDNESDAY",
+                "subjectId": null,
+                "subjectName": "Machine Learning Seminar",
+                "type": "LECTURE",
+                "weeks": [
+                    5,
+                    7
+                ],
+                "courses": [
+                    "c3",
+                    "c4",
+                    "s5",
+                    "r5",
+                    "a5",
+                    "j3",
+                    "j4",
+                    "v5"
+                ],
+                "rooms": [
+                    "308"
+                ],
+                "lecturers": [],
+                "startTime": "16:00",
+                "endTime": "17:00"
+            }
+        ],
+        "THURSDAY": [
+            {
+                "day": "THURSDAY",
+                "subjectId": "410H",
+                "subjectName": "Scalable Distributed Systems Design",
+                "type": "LECTURE",
+                "weeks": [
+                    2,
+                    3,
+                    4,
+                    5,
+                    6,
+                    7,
+                    8,
+                    9
+                ],
+                "courses": [
+                    "c4",
+                    "s5",
+                    "r5",
+                    "o3",
+                    "a5",
+                    "j4",
+                    "h5"
+                ],
+                "rooms": [
+                    "144"
+                ],
+                "lecturers": [
+                    "Peter R Pietzuch"
+                ],
+                "startTime": "09:00",
+                "endTime": "10:00"
+            },
+            {
+                "day": "THURSDAY",
+                "subjectId": "410H",
+                "subjectName": "Scalable Distributed Systems Design",
+                "type": "LECTURE",
+                "weeks": [
+                    2,
+                    3,
+                    4,
+                    5,
+                    6,
+                    7,
+                    8,
+                    9
+                ],
+                "courses": [
+                    "c4",
+                    "s5",
+                    "r5",
+                    "o3",
+                    "a5",
+                    "j4",
+                    "h5"
+                ],
+                "rooms": [
+                    "144"
+                ],
+                "lecturers": [
+                    "Peter R Pietzuch"
+                ],
+                "startTime": "10:00",
+                "endTime": "11:00"
+            },
+            {
+                "day": "THURSDAY",
+                "subjectId": "422",
+                "subjectName": "Computational Finance",
+                "type": "LECTURE",
+                "weeks": [
+                    2,
+                    3,
+                    4,
+                    5,
+                    6,
+                    7,
+                    8,
+                    9
+                ],
+                "courses": [
+                    "c4",
+                    "s5",
+                    "r5",
+                    "a5",
+                    "j4",
+                    "i4",
+                    "h5",
+                    "v5"
+                ],
+                "rooms": [
+                    "145"
+                ],
+                "lecturers": [
+                    "Panos Parpas"
+                ],
+                "startTime": "11:00",
+                "endTime": "12:00"
+            },
+            {
+                "day": "THURSDAY",
+                "subjectId": "422",
+                "subjectName": "Computational Finance",
+                "type": "LECTURE",
+                "weeks": [
+                    2,
+                    3,
+                    4,
+                    5,
+                    6,
+                    7,
+                    8,
+                    9
+                ],
+                "courses": [
+                    "c4",
+                    "s5",
+                    "r5",
+                    "a5",
+                    "j4",
+                    "i4",
+                    "h5",
+                    "v5"
+                ],
+                "rooms": [
+                    "145"
+                ],
+                "lecturers": [
+                    "Panos Parpas"
+                ],
+                "startTime": "12:00",
+                "endTime": "13:00"
+            },
+            {
+                "day": "THURSDAY",
+                "subjectId": null,
+                "subjectName": "All Student General",
+                "type": "LECTURE",
+                "weeks": [
+                    2,
+                    3,
+                    4,
+                    5,
+                    6,
+                    7,
+                    8,
+                    9
+                ],
+                "courses": [
+                    "s5",
+                    "r5",
+                    "j1",
+                    "j2",
+                    "j3",
+                    "j4",
+                    "c1",
+                    "c2",
+                    "c3",
+                    "c4",
+                    "a5",
+                    "y5",
+                    "v5"
+                ],
+                "rooms": [
+                    "308"
+                ],
+                "lecturers": [
+                    "Alastair F Donaldson"
+                ],
+                "startTime": "13:00",
+                "endTime": "14:00"
+            },
+            {
+                "day": "THURSDAY",
+                "subjectId": "495",
+                "subjectName": "Advanced Statistical Machine Learning and Pattern Recognition",
+                "type": "LECTURE",
+                "weeks": [
+                    2,
+                    3,
+                    4,
+                    5,
+                    6,
+                    7,
+                    8,
+                    9
+                ],
+                "courses": [
+                    "c4",
+                    "s5",
+                    "r5",
+                    "a5",
+                    "j4",
+                    "h5"
+                ],
+                "rooms": [
+                    "144"
+                ],
+                "lecturers": [
+                    "Stefanos Zafeiriou"
+                ],
+                "startTime": "14:00",
+                "endTime": "15:00"
+            },
+            {
+                "day": "THURSDAY",
+                "subjectId": "495",
+                "subjectName": "Advanced Statistical Machine Learning and Pattern Recognition",
+                "type": "LECTURE",
+                "weeks": [
+                    2,
+                    3,
+                    4,
+                    5,
+                    6,
+                    7,
+                    8,
+                    9
+                ],
+                "courses": [
+                    "c4",
+                    "s5",
+                    "r5",
+                    "a5",
+                    "j4",
+                    "h5"
+                ],
+                "rooms": [
+                    "144"
+                ],
+                "lecturers": [
+                    "Stefanos Zafeiriou"
+                ],
+                "startTime": "15:00",
+                "endTime": "16:00"
+            }
+        ],
+        "FRIDAY": [
+            {
+                "day": "FRIDAY",
+                "subjectId": "475",
+                "subjectName": "Software Engineering for Industry",
+                "type": "LAB",
+                "weeks": [
+                    2,
+                    3,
+                    4,
+                    5,
+                    6,
+                    7,
+                    8,
+                    9
+                ],
+                "courses": [
+                    "c4",
+                    "s5",
+                    "r5",
+                    "a5",
+                    "j4",
+                    "i4",
+                    "h5"
+                ],
+                "rooms": [
+                    "219"
+                ],
+                "lecturers": [
+                    "Robert Chatley",
+                    "Antonio Filieri"
+                ],
+                "startTime": "09:00",
+                "endTime": "10:00"
+            },
+            {
+                "day": "FRIDAY",
+                "subjectId": "475",
+                "subjectName": "Software Engineering for Industry",
+                "type": "LAB",
+                "weeks": [
+                    2,
+                    3,
+                    4,
+                    5,
+                    6,
+                    7,
+                    8,
+                    9
+                ],
+                "courses": [
+                    "c4",
+                    "s5",
+                    "r5",
+                    "a5",
+                    "j4",
+                    "i4",
+                    "h5"
+                ],
+                "rooms": [
+                    "219"
+                ],
+                "lecturers": [
+                    "Robert Chatley",
+                    "Antonio Filieri"
+                ],
+                "startTime": "10:00",
+                "endTime": "11:00"
+            },
+            {
+                "day": "FRIDAY",
+                "subjectId": "417",
+                "subjectName": "Advanced Computer Graphics",
+                "type": "LECTURE",
+                "weeks": [
+                    2,
+                    3,
+                    4,
+                    5,
+                    6,
+                    7,
+                    8,
+                    9
+                ],
+                "courses": [
+                    "c4",
+                    "s5",
+                    "r5",
+                    "a5",
+                    "j4",
+                    "i4",
+                    "h5"
+                ],
+                "rooms": [
+                    "342"
+                ],
+                "lecturers": [
+                    "Abhijeet Ghosh"
+                ],
+                "startTime": "11:00",
+                "endTime": "12:00"
+            },
+            {
+                "day": "FRIDAY",
+                "subjectId": "417",
+                "subjectName": "Advanced Computer Graphics",
+                "type": "LECTURE",
+                "weeks": [
+                    2,
+                    3,
+                    4,
+                    5,
+                    6,
+                    7,
+                    8,
+                    9
+                ],
+                "courses": [
+                    "c4",
+                    "s5",
+                    "r5",
+                    "a5",
+                    "j4",
+                    "i4",
+                    "h5"
+                ],
+                "rooms": [
+                    "342"
+                ],
+                "lecturers": [
+                    "Abhijeet Ghosh"
+                ],
+                "startTime": "12:00",
+                "endTime": "13:00"
+            },
+            {
+                "day": "FRIDAY",
+                "subjectId": "409",
+                "subjectName": "Cryptography Engineering",
+                "type": "LECTURE",
+                "weeks": [
+                    2,
+                    3,
+                    4,
+                    5,
+                    6,
+                    7,
+                    8,
+                    9
+                ],
+                "courses": [
+                    "c4",
+                    "s5",
+                    "r5",
+                    "a5",
+                    "j4",
+                    "h5"
+                ],
+                "rooms": [
+                    "342"
+                ],
+                "lecturers": [
+                    "Michael R A Huth"
+                ],
+                "startTime": "14:00",
+                "endTime": "15:00"
+            },
+            {
+                "day": "FRIDAY",
+                "subjectId": "477",
+                "subjectName": "Computing for Optimal Decisions",
+                "type": "LECTURE",
+                "weeks": [
+                    2,
+                    3,
+                    4,
+                    5,
+                    6,
+                    7,
+                    8,
+                    9
+                ],
+                "courses": [
+                    "c4",
+                    "s5",
+                    "r5",
+                    "a5",
+                    "j4",
+                    "i4",
+                    "h5"
+                ],
+                "rooms": [
+                    "145"
+                ],
+                "lecturers": [
+                    "Ruth Misener",
+                    "Panos Parpas"
+                ],
+                "startTime": "14:00",
+                "endTime": "15:00"
+            },
+            {
+                "day": "FRIDAY",
+                "subjectId": "409",
+                "subjectName": "Cryptography Engineering",
+                "type": "LECTURE",
+                "weeks": [
+                    2,
+                    3,
+                    4,
+                    5,
+                    6,
+                    7,
+                    8,
+                    9
+                ],
+                "courses": [
+                    "c4",
+                    "s5",
+                    "r5",
+                    "a5",
+                    "j4",
+                    "h5"
+                ],
+                "rooms": [
+                    "342"
+                ],
+                "lecturers": [
+                    "Michael R A Huth"
+                ],
+                "startTime": "15:00",
+                "endTime": "16:00"
+            },
+            {
+                "day": "FRIDAY",
+                "subjectId": "477",
+                "subjectName": "Computing for Optimal Decisions",
+                "type": "LECTURE",
+                "weeks": [
+                    2,
+                    3,
+                    4,
+                    5,
+                    6,
+                    7,
+                    8,
+                    9
+                ],
+                "courses": [
+                    "c4",
+                    "s5",
+                    "r5",
+                    "a5",
+                    "j4",
+                    "i4",
+                    "h5"
+                ],
+                "rooms": [
+                    "145"
+                ],
+                "lecturers": [
+                    "Ruth Misener",
+                    "Panos Parpas"
+                ],
+                "startTime": "15:00",
+                "endTime": "16:00"
+            },
+            {
+                "day": "FRIDAY",
+                "subjectId": "429",
+                "subjectName": "Parallel Algorithms",
+                "type": "LECTURE",
+                "weeks": [
+                    2,
+                    3,
+                    4,
+                    5,
+                    6,
+                    7,
+                    8,
+                    9
+                ],
+                "courses": [
+                    "c4",
+                    "s5",
+                    "r5",
+                    "o3",
+                    "a5",
+                    "j4",
+                    "i4",
+                    "h5"
+                ],
+                "rooms": [
+                    "145"
+                ],
+                "lecturers": [
+                    "Peter G Harrison",
+                    "William J Knottenbelt"
+                ],
+                "startTime": "16:00",
+                "endTime": "17:00"
+            },
+            {
+                "day": "FRIDAY",
+                "subjectId": "429",
+                "subjectName": "Parallel Algorithms",
+                "type": "LECTURE",
+                "weeks": [
+                    2,
+                    3,
+                    4,
+                    5,
+                    6,
+                    7,
+                    8,
+                    9
+                ],
+                "courses": [
+                    "c4",
+                    "s5",
+                    "r5",
+                    "o3",
+                    "a5",
+                    "j4",
+                    "i4",
+                    "h5"
+                ],
+                "rooms": [
+                    "145"
+                ],
+                "lecturers": [
+                    "Peter G Harrison",
+                    "William J Knottenbelt"
+                ],
+                "startTime": "17:00",
+                "endTime": "18:00"
+            }
+        ]
+    }
+}

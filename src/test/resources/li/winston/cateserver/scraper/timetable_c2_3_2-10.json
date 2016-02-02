@@ -1,0 +1,1063 @@
+{
+    "days": {
+        "MONDAY": [
+            {
+                "day": "MONDAY",
+                "subjectId": null,
+                "subjectName": "Lab Workshop",
+                "type": "LECTURE",
+                "weeks": [
+                    2,
+                    3,
+                    4,
+                    5,
+                    6,
+                    7,
+                    8,
+                    9,
+                    10
+                ],
+                "courses": [
+                    "j2",
+                    "c2",
+                    "v5"
+                ],
+                "rooms": [
+                    "308"
+                ],
+                "lecturers": [
+                    "Mark J Wheelhouse"
+                ],
+                "startTime": "09:00",
+                "endTime": "10:00"
+            },
+            {
+                "day": "MONDAY",
+                "subjectId": "261",
+                "subjectName": "Laboratory 2",
+                "type": "LAB",
+                "weeks": [
+                    2,
+                    3,
+                    4,
+                    5,
+                    6,
+                    7,
+                    8,
+                    9,
+                    10
+                ],
+                "courses": [
+                    "j2",
+                    "c2"
+                ],
+                "rooms": [
+                    "202",
+                    "206",
+                    "219"
+                ],
+                "lecturers": [
+                    "Mark J Wheelhouse"
+                ],
+                "startTime": "10:00",
+                "endTime": "11:00"
+            },
+            {
+                "day": "MONDAY",
+                "subjectId": "261",
+                "subjectName": "Laboratory 2",
+                "type": "LAB",
+                "weeks": [
+                    2,
+                    3,
+                    4,
+                    5,
+                    6,
+                    7,
+                    8,
+                    9,
+                    10
+                ],
+                "courses": [
+                    "j2",
+                    "c2"
+                ],
+                "rooms": [
+                    "202",
+                    "206",
+                    "219"
+                ],
+                "lecturers": [
+                    "Mark J Wheelhouse"
+                ],
+                "startTime": "11:00",
+                "endTime": "12:00"
+            },
+            {
+                "day": "MONDAY",
+                "subjectId": "211",
+                "subjectName": "Operating Systems",
+                "type": "LECTURE",
+                "weeks": [
+                    2,
+                    3,
+                    4,
+                    5,
+                    6,
+                    7,
+                    8,
+                    9,
+                    10
+                ],
+                "courses": [
+                    "j2",
+                    "c2"
+                ],
+                "rooms": [
+                    "308"
+                ],
+                "lecturers": [
+                    "Cristian Cadar",
+                    "Peter R Pietzuch"
+                ],
+                "startTime": "12:00",
+                "endTime": "13:00"
+            },
+            {
+                "day": "MONDAY",
+                "subjectId": "212",
+                "subjectName": "Networks and Communications",
+                "type": "LECTURE",
+                "weeks": [
+                    2,
+                    3,
+                    4,
+                    5,
+                    6,
+                    7,
+                    8,
+                    9,
+                    10
+                ],
+                "courses": [
+                    "o3",
+                    "c2"
+                ],
+                "rooms": [
+                    "144"
+                ],
+                "lecturers": [
+                    "Anandha Gopalan",
+                    "Peter R Pietzuch"
+                ],
+                "startTime": "14:00",
+                "endTime": "15:00"
+            },
+            {
+                "day": "MONDAY",
+                "subjectId": "212",
+                "subjectName": "Networks and Communications",
+                "type": "LECTURE",
+                "weeks": [
+                    2,
+                    3,
+                    4,
+                    5,
+                    6,
+                    7,
+                    8,
+                    9,
+                    10
+                ],
+                "courses": [
+                    "o3",
+                    "c2"
+                ],
+                "rooms": [
+                    "144"
+                ],
+                "lecturers": [
+                    "Anandha Gopalan",
+                    "Peter R Pietzuch"
+                ],
+                "startTime": "15:00",
+                "endTime": "16:00"
+            },
+            {
+                "day": "MONDAY",
+                "subjectId": null,
+                "subjectName": "Computing Ad Hoc",
+                "type": "Meeting",
+                "weeks": [
+                    8
+                ],
+                "courses": [
+                    "j1",
+                    "j2",
+                    "c1",
+                    "c2"
+                ],
+                "rooms": [],
+                "lecturers": [
+                    "Dominic McDonagh"
+                ],
+                "startTime": "17:00",
+                "endTime": "18:00"
+            }
+        ],
+        "TUESDAY": [
+            {
+                "day": "TUESDAY",
+                "subjectId": "233",
+                "subjectName": "Computational Techniques",
+                "type": "LECTURE",
+                "weeks": [
+                    2,
+                    3,
+                    4,
+                    5,
+                    6,
+                    7,
+                    8,
+                    9,
+                    10
+                ],
+                "courses": [
+                    "c2"
+                ],
+                "rooms": [
+                    "144"
+                ],
+                "lecturers": [
+                    "Abbas Edalat",
+                    "Stefanos Zafeiriou"
+                ],
+                "startTime": "10:00",
+                "endTime": "11:00"
+            },
+            {
+                "day": "TUESDAY",
+                "subjectId": "261",
+                "subjectName": "Laboratory 2",
+                "type": "LAB",
+                "weeks": [
+                    2,
+                    3,
+                    4,
+                    5,
+                    6,
+                    7,
+                    8,
+                    9,
+                    10
+                ],
+                "courses": [
+                    "j2",
+                    "c2"
+                ],
+                "rooms": [
+                    "202",
+                    "206"
+                ],
+                "lecturers": [
+                    "Mark J Wheelhouse"
+                ],
+                "startTime": "11:00",
+                "endTime": "12:00"
+            },
+            {
+                "day": "TUESDAY",
+                "subjectId": null,
+                "subjectName": "Applications of Computing in Industry",
+                "type": "LECTURE",
+                "weeks": [
+                    1,
+                    2,
+                    3,
+                    4,
+                    5,
+                    6,
+                    7,
+                    8,
+                    9,
+                    10
+                ],
+                "courses": [
+                    "s5",
+                    "r5",
+                    "j1",
+                    "j2",
+                    "j3",
+                    "j4",
+                    "c1",
+                    "c2",
+                    "c3",
+                    "c4",
+                    "a5",
+                    "v5"
+                ],
+                "rooms": [
+                    "308"
+                ],
+                "lecturers": [
+                    "William J Knottenbelt",
+                    "Victoria Nicholl"
+                ],
+                "startTime": "12:00",
+                "endTime": "13:00"
+            },
+            {
+                "day": "TUESDAY",
+                "subjectId": "261",
+                "subjectName": "Laboratory 2",
+                "type": "LAB",
+                "weeks": [
+                    2,
+                    3,
+                    4,
+                    5,
+                    6,
+                    7,
+                    8,
+                    9,
+                    10
+                ],
+                "courses": [
+                    "j2",
+                    "c2"
+                ],
+                "rooms": [
+                    "202",
+                    "206"
+                ],
+                "lecturers": [
+                    "Mark J Wheelhouse"
+                ],
+                "startTime": "12:00",
+                "endTime": "13:00"
+            },
+            {
+                "day": "TUESDAY",
+                "subjectId": null,
+                "subjectName": "Applications of Computing in Industry",
+                "type": "LECTURE",
+                "weeks": [
+                    1,
+                    2,
+                    3,
+                    4,
+                    5,
+                    6,
+                    7,
+                    8,
+                    9,
+                    10
+                ],
+                "courses": [
+                    "s5",
+                    "r5",
+                    "j1",
+                    "j2",
+                    "j3",
+                    "j4",
+                    "c1",
+                    "c2",
+                    "c3",
+                    "c4",
+                    "a5",
+                    "v5"
+                ],
+                "rooms": [
+                    "308"
+                ],
+                "lecturers": [
+                    "William J Knottenbelt",
+                    "Victoria Nicholl"
+                ],
+                "startTime": "13:00",
+                "endTime": "14:00"
+            },
+            {
+                "day": "TUESDAY",
+                "subjectId": "211",
+                "subjectName": "Operating Systems",
+                "type": "LECTURE",
+                "weeks": [
+                    2,
+                    3,
+                    4,
+                    5,
+                    6,
+                    7,
+                    8,
+                    9,
+                    10
+                ],
+                "courses": [
+                    "j2",
+                    "c2"
+                ],
+                "rooms": [
+                    "311"
+                ],
+                "lecturers": [
+                    "Cristian Cadar",
+                    "Peter R Pietzuch"
+                ],
+                "startTime": "14:00",
+                "endTime": "15:00"
+            },
+            {
+                "day": "TUESDAY",
+                "subjectId": "211",
+                "subjectName": "Operating Systems",
+                "type": "LECTURE",
+                "weeks": [
+                    2,
+                    3,
+                    4,
+                    5,
+                    6,
+                    7,
+                    8,
+                    9,
+                    10
+                ],
+                "courses": [
+                    "j2",
+                    "c2"
+                ],
+                "rooms": [
+                    "311"
+                ],
+                "lecturers": [
+                    "Cristian Cadar",
+                    "Peter R Pietzuch"
+                ],
+                "startTime": "15:00",
+                "endTime": "16:00"
+            },
+            {
+                "day": "TUESDAY",
+                "subjectId": "231",
+                "subjectName": "Introduction to Artificial Intelligence",
+                "type": "LECTURE",
+                "weeks": [
+                    2
+                ],
+                "courses": [
+                    "o3",
+                    "o4",
+                    "j2",
+                    "c2",
+                    "v5"
+                ],
+                "rooms": [
+                    "308"
+                ],
+                "lecturers": [
+                    "Murray P Shanahan"
+                ],
+                "startTime": "16:00",
+                "endTime": "17:00"
+            },
+            {
+                "day": "TUESDAY",
+                "subjectId": "231",
+                "subjectName": "Introduction to Artificial Intelligence",
+                "type": "LAB",
+                "weeks": [
+                    3,
+                    4,
+                    5,
+                    6,
+                    7,
+                    8,
+                    9,
+                    10
+                ],
+                "courses": [
+                    "o3",
+                    "o4",
+                    "j2",
+                    "c2",
+                    "v5"
+                ],
+                "rooms": [
+                    "202",
+                    "206"
+                ],
+                "lecturers": [
+                    "Murray P Shanahan"
+                ],
+                "startTime": "16:00",
+                "endTime": "17:00"
+            },
+            {
+                "day": "TUESDAY",
+                "subjectId": "231",
+                "subjectName": "Introduction to Artificial Intelligence",
+                "type": "LECTURE",
+                "weeks": [
+                    2
+                ],
+                "courses": [
+                    "o3",
+                    "o4",
+                    "j2",
+                    "c2",
+                    "v5"
+                ],
+                "rooms": [
+                    "308"
+                ],
+                "lecturers": [
+                    "Murray P Shanahan"
+                ],
+                "startTime": "17:00",
+                "endTime": "18:00"
+            },
+            {
+                "day": "TUESDAY",
+                "subjectId": "231",
+                "subjectName": "Introduction to Artificial Intelligence",
+                "type": "LAB",
+                "weeks": [
+                    3,
+                    4,
+                    5,
+                    6,
+                    7,
+                    8,
+                    9,
+                    10
+                ],
+                "courses": [
+                    "o3",
+                    "o4",
+                    "j2",
+                    "c2",
+                    "v5"
+                ],
+                "rooms": [
+                    "202",
+                    "206"
+                ],
+                "lecturers": [
+                    "Murray P Shanahan"
+                ],
+                "startTime": "17:00",
+                "endTime": "18:00"
+            }
+        ],
+        "WEDNESDAY": [
+            {
+                "day": "WEDNESDAY",
+                "subjectId": "210",
+                "subjectName": "Computer Architecture",
+                "type": "LECTURE",
+                "weeks": [
+                    2,
+                    3,
+                    4,
+                    5,
+                    6,
+                    7,
+                    8,
+                    9,
+                    10
+                ],
+                "courses": [
+                    "o3",
+                    "c2"
+                ],
+                "rooms": [
+                    "144"
+                ],
+                "lecturers": [
+                    "Wayne Luk",
+                    "David B Thomas"
+                ],
+                "startTime": "10:00",
+                "endTime": "11:00"
+            },
+            {
+                "day": "WEDNESDAY",
+                "subjectId": "210",
+                "subjectName": "Computer Architecture",
+                "type": "LECTURE",
+                "weeks": [
+                    2,
+                    3,
+                    4,
+                    5,
+                    6,
+                    7,
+                    8,
+                    9,
+                    10
+                ],
+                "courses": [
+                    "o3",
+                    "c2"
+                ],
+                "rooms": [
+                    "144"
+                ],
+                "lecturers": [
+                    "Wayne Luk",
+                    "David B Thomas"
+                ],
+                "startTime": "11:00",
+                "endTime": "12:00"
+            },
+            {
+                "day": "WEDNESDAY",
+                "subjectId": null,
+                "subjectName": "Computing Ad Hoc",
+                "type": "EXAM",
+                "weeks": [
+                    7
+                ],
+                "courses": [
+                    "j1",
+                    "j2",
+                    "c1",
+                    "c2"
+                ],
+                "rooms": [
+                    "642"
+                ],
+                "lecturers": [],
+                "startTime": "11:00",
+                "endTime": "12:00"
+            },
+            {
+                "day": "WEDNESDAY",
+                "subjectId": null,
+                "subjectName": "Computing Ad Hoc",
+                "type": "Meeting",
+                "weeks": [
+                    4,
+                    6
+                ],
+                "courses": [
+                    "j1",
+                    "j2",
+                    "c1",
+                    "c2"
+                ],
+                "rooms": [
+                    "642"
+                ],
+                "lecturers": [],
+                "startTime": "12:00",
+                "endTime": "13:00"
+            },
+            {
+                "day": "WEDNESDAY",
+                "subjectId": null,
+                "subjectName": "Computing Ad Hoc",
+                "type": "EXAM",
+                "weeks": [
+                    7
+                ],
+                "courses": [
+                    "j1",
+                    "j2",
+                    "c1",
+                    "c2"
+                ],
+                "rooms": [
+                    "642"
+                ],
+                "lecturers": [],
+                "startTime": "12:00",
+                "endTime": "13:00"
+            },
+            {
+                "day": "WEDNESDAY",
+                "subjectId": null,
+                "subjectName": "Computing Ad Hoc",
+                "type": "Meeting",
+                "weeks": [
+                    4,
+                    6
+                ],
+                "courses": [
+                    "j1",
+                    "j2",
+                    "c1",
+                    "c2"
+                ],
+                "rooms": [
+                    "642"
+                ],
+                "lecturers": [],
+                "startTime": "13:00",
+                "endTime": "14:00"
+            },
+            {
+                "day": "WEDNESDAY",
+                "subjectId": null,
+                "subjectName": "Computing Ad Hoc",
+                "type": "EXAM",
+                "weeks": [
+                    7
+                ],
+                "courses": [
+                    "j1",
+                    "j2",
+                    "c1",
+                    "c2"
+                ],
+                "rooms": [
+                    "642"
+                ],
+                "lecturers": [],
+                "startTime": "13:00",
+                "endTime": "14:00"
+            }
+        ],
+        "THURSDAY": [
+            {
+                "day": "THURSDAY",
+                "subjectId": "231",
+                "subjectName": "Introduction to Artificial Intelligence",
+                "type": "LECTURE",
+                "weeks": [
+                    2,
+                    3,
+                    4,
+                    5,
+                    6,
+                    7,
+                    8,
+                    9,
+                    10
+                ],
+                "courses": [
+                    "o3",
+                    "o4",
+                    "j2",
+                    "c2",
+                    "v5"
+                ],
+                "rooms": [
+                    "308"
+                ],
+                "lecturers": [
+                    "Murray P Shanahan"
+                ],
+                "startTime": "10:00",
+                "endTime": "11:00"
+            },
+            {
+                "day": "THURSDAY",
+                "subjectId": "202",
+                "subjectName": "Software Engineering - Algorithms",
+                "type": "LECTURE",
+                "weeks": [
+                    2,
+                    3,
+                    4,
+                    5,
+                    6,
+                    7,
+                    8,
+                    9,
+                    10
+                ],
+                "courses": [
+                    "j2",
+                    "c2"
+                ],
+                "rooms": [
+                    "308"
+                ],
+                "lecturers": [
+                    "Ben Glocker"
+                ],
+                "startTime": "11:00",
+                "endTime": "12:00"
+            },
+            {
+                "day": "THURSDAY",
+                "subjectId": "202",
+                "subjectName": "Software Engineering - Algorithms",
+                "type": "LECTURE",
+                "weeks": [
+                    2,
+                    3,
+                    4,
+                    5,
+                    6,
+                    7,
+                    8,
+                    9,
+                    10
+                ],
+                "courses": [
+                    "j2",
+                    "c2"
+                ],
+                "rooms": [
+                    "308"
+                ],
+                "lecturers": [
+                    "Ben Glocker"
+                ],
+                "startTime": "12:00",
+                "endTime": "13:00"
+            },
+            {
+                "day": "THURSDAY",
+                "subjectId": null,
+                "subjectName": "All Student General",
+                "type": "LECTURE",
+                "weeks": [
+                    2,
+                    3,
+                    4,
+                    5,
+                    6,
+                    7,
+                    8,
+                    9
+                ],
+                "courses": [
+                    "s5",
+                    "r5",
+                    "j1",
+                    "j2",
+                    "j3",
+                    "j4",
+                    "c1",
+                    "c2",
+                    "c3",
+                    "c4",
+                    "a5",
+                    "y5",
+                    "v5"
+                ],
+                "rooms": [
+                    "308"
+                ],
+                "lecturers": [
+                    "Alastair F Donaldson"
+                ],
+                "startTime": "13:00",
+                "endTime": "14:00"
+            },
+            {
+                "day": "THURSDAY",
+                "subjectId": "261",
+                "subjectName": "Laboratory 2",
+                "type": "LAB",
+                "weeks": [
+                    2,
+                    3,
+                    4,
+                    5,
+                    6,
+                    7,
+                    8,
+                    9,
+                    10
+                ],
+                "courses": [
+                    "j2",
+                    "c2"
+                ],
+                "rooms": [
+                    "202",
+                    "206",
+                    "219"
+                ],
+                "lecturers": [
+                    "Mark J Wheelhouse"
+                ],
+                "startTime": "16:00",
+                "endTime": "17:00"
+            },
+            {
+                "day": "THURSDAY",
+                "subjectId": "261",
+                "subjectName": "Laboratory 2",
+                "type": "LAB",
+                "weeks": [
+                    2,
+                    3,
+                    4,
+                    5,
+                    6,
+                    7,
+                    8,
+                    9,
+                    10
+                ],
+                "courses": [
+                    "j2",
+                    "c2"
+                ],
+                "rooms": [
+                    "202",
+                    "206",
+                    "219"
+                ],
+                "lecturers": [
+                    "Mark J Wheelhouse"
+                ],
+                "startTime": "17:00",
+                "endTime": "18:00"
+            }
+        ],
+        "FRIDAY": [
+            {
+                "day": "FRIDAY",
+                "subjectId": "212",
+                "subjectName": "Networks and Communications",
+                "type": "LECTURE",
+                "weeks": [
+                    2,
+                    3,
+                    4,
+                    5,
+                    6,
+                    7,
+                    8,
+                    9,
+                    10
+                ],
+                "courses": [
+                    "o3",
+                    "c2"
+                ],
+                "rooms": [
+                    "311"
+                ],
+                "lecturers": [
+                    "Anandha Gopalan",
+                    "Peter R Pietzuch"
+                ],
+                "startTime": "11:00",
+                "endTime": "12:00"
+            },
+            {
+                "day": "FRIDAY",
+                "subjectId": "210",
+                "subjectName": "Computer Architecture",
+                "type": "LECTURE",
+                "weeks": [
+                    2,
+                    3,
+                    4,
+                    5,
+                    6,
+                    7,
+                    8,
+                    9,
+                    10
+                ],
+                "courses": [
+                    "o3",
+                    "c2"
+                ],
+                "rooms": [
+                    "308"
+                ],
+                "lecturers": [
+                    "Wayne Luk",
+                    "David B Thomas"
+                ],
+                "startTime": "14:00",
+                "endTime": "15:00"
+            },
+            {
+                "day": "FRIDAY",
+                "subjectId": "202",
+                "subjectName": "Software Engineering - Algorithms",
+                "type": "LECTURE",
+                "weeks": [
+                    2,
+                    3,
+                    4,
+                    5,
+                    6,
+                    7,
+                    8,
+                    9,
+                    10
+                ],
+                "courses": [
+                    "j2",
+                    "c2"
+                ],
+                "rooms": [
+                    "311"
+                ],
+                "lecturers": [
+                    "Ben Glocker"
+                ],
+                "startTime": "15:00",
+                "endTime": "16:00"
+            },
+            {
+                "day": "FRIDAY",
+                "subjectId": "233",
+                "subjectName": "Computational Techniques",
+                "type": "LECTURE",
+                "weeks": [
+                    2,
+                    3,
+                    4,
+                    5,
+                    6,
+                    7,
+                    8,
+                    9,
+                    10
+                ],
+                "courses": [
+                    "c2"
+                ],
+                "rooms": [
+                    "311"
+                ],
+                "lecturers": [
+                    "Abbas Edalat"
+                ],
+                "startTime": "16:00",
+                "endTime": "17:00"
+            },
+            {
+                "day": "FRIDAY",
+                "subjectId": "233",
+                "subjectName": "Computational Techniques",
+                "type": "LECTURE",
+                "weeks": [
+                    2,
+                    3,
+                    4,
+                    5,
+                    6,
+                    7,
+                    8,
+                    9,
+                    10
+                ],
+                "courses": [
+                    "c2"
+                ],
+                "rooms": [
+                    "311"
+                ],
+                "lecturers": [
+                    "Abbas Edalat"
+                ],
+                "startTime": "17:00",
+                "endTime": "18:00"
+            }
+        ]
+    }
+}

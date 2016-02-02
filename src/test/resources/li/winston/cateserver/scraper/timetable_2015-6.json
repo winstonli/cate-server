@@ -1,0 +1,59 @@
+{
+    "subjects": [
+        {
+            "id": "401",
+            "name": "Individual Project MEng",
+            "notesUrl": null,
+            "exercises": [
+                {
+                    "name": "Preliminary Source Code Archive",
+                    "category": "PROJ",
+                    "type": "GREY",
+                    "sequence": 4,
+                    "startTime": "2015-11-10T00:00Z",
+                    "endDay": "2016-06-28T00:00Z",
+                    "ownerEmail": "axgopala@imperial.ac.uk",
+                    "handinUrl": "https://cate.doc.ic.ac.uk/handins.cgi?key=2015:6:128:c4:new:wl3912",
+                    "givenUrl": null,
+                    "specUrl": null
+                },
+                {
+                    "name": "Final Project Archive",
+                    "category": "PROJ",
+                    "type": "GREY",
+                    "sequence": 5,
+                    "startTime": "2016-02-19T00:00Z",
+                    "endDay": "2016-06-28T00:00Z",
+                    "ownerEmail": "axgopala@imperial.ac.uk",
+                    "handinUrl": null,
+                    "givenUrl": null,
+                    "specUrl": null
+                },
+                {
+                    "name": "Destinations",
+                    "category": "REP",
+                    "type": "GREY",
+                    "sequence": 6,
+                    "startTime": "2016-06-20T00:00Z",
+                    "endDay": "2016-06-28T00:00Z",
+                    "ownerEmail": "axgopala@imperial.ac.uk",
+                    "handinUrl": null,
+                    "givenUrl": null,
+                    "specUrl": null
+                },
+                {
+                    "name": "Tips",
+                    "category": "REP",
+                    "type": "GREY",
+                    "sequence": 7,
+                    "startTime": "2016-06-20T00:00Z",
+                    "endDay": "2016-06-28T00:00Z",
+                    "ownerEmail": "axgopala@imperial.ac.uk",
+                    "handinUrl": null,
+                    "givenUrl": null,
+                    "specUrl": null
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "subjectId": "409",
+    "notes": [
+        {
+            "sequence": 1,
+            "specName": "NigelSmartsBook",
+            "specLink": "https://cate.doc.ic.ac.uk/showfile.cgi?key=2015:3:493:c4:NOTES:wl3912",
+            "fileType": "pdf",
+            "size": 2643000,
+            "loaded": "2016-01-12T13:36:08Z",
+            "owner": "mrh",
+            "hits": 52
+        },
+        {
+            "sequence": 2,
+            "specName": "Exercises_version1",
+            "specLink": "https://cate.doc.ic.ac.uk/showfile.cgi?key=2015:3:494:c4:NOTES:wl3912",
+            "fileType": "pdf",
+            "size": 2209838,
+            "loaded": "2016-01-12T13:37:19Z",
+            "owner": "mrh",
+            "hits": 38
+        },
+        {
+            "sequence": 3,
+            "specName": "Slides_version1",
+            "specLink": "https://cate.doc.ic.ac.uk/showfile.cgi?key=2015:3:495:c4:NOTES:wl3912",
+            "fileType": "pdf",
+            "size": 269396,
+            "loaded": "2016-01-12T13:49:08Z",
+            "owner": "mrh",
+            "hits": 79
+        },
+        {
+            "sequence": 4,
+            "specName": "Exercises_version1_WITHOUTSOLUTIONS",
+            "specLink": "https://cate.doc.ic.ac.uk/showfile.cgi?key=2015:3:512:c4:NOTES:wl3912",
+            "fileType": "pdf",
+            "size": 288426,
+            "loaded": "2016-01-13T22:22:02Z",
+            "owner": "mrh",
+            "hits": 14
+        }
+    ]
+}

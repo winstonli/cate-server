@@ -1,0 +1,479 @@
+{
+    "today": null,
+    "subjects": [
+        {
+            "id": "401",
+            "name": "Individual Project MEng",
+            "notesUrl": null,
+            "exercises": [
+                {
+                    "name": "Interim Report",
+                    "category": "REP",
+                    "type": "GREY",
+                    "sequence": 1,
+                    "startTime": "2015-11-10T00:00:00Z",
+                    "endDay": "2016-01-30T00:00:00Z",
+                    "ownerEmail": "axgopala@imperial.ac.uk",
+                    "handinUrl": "https://cate.doc.ic.ac.uk/handins.cgi?key=2015:1:120:c4:new:wl3912",
+                    "givenUrl": null,
+                    "specUrl": null
+                },
+                {
+                    "name": "Preliminary Source Code Archive",
+                    "category": "PROJ",
+                    "type": "GREY",
+                    "sequence": 4,
+                    "startTime": "2015-11-10T00:00:00Z",
+                    "endDay": "2016-06-28T00:00:00Z",
+                    "ownerEmail": "axgopala@imperial.ac.uk",
+                    "handinUrl": "https://cate.doc.ic.ac.uk/handins.cgi?key=2015:1:128:c4:new:wl3912",
+                    "givenUrl": null,
+                    "specUrl": null
+                }
+            ]
+        },
+        {
+            "id": "406H",
+            "name": "Concurrent Processes",
+            "notesUrl": null,
+            "exercises": [
+                {
+                    "name": "Tutorial One",
+                    "category": "TUT",
+                    "type": "WHITE",
+                    "sequence": 2,
+                    "startTime": "2015-10-12T00:00:00Z",
+                    "endDay": "2015-10-24T00:00:00Z",
+                    "ownerEmail": "yoshida@imperial.ac.uk",
+                    "handinUrl": null,
+                    "givenUrl": "https://cate.doc.ic.ac.uk/given.cgi?key=2015:1:88:c4:new:wl3912",
+                    "specUrl": "https://cate.doc.ic.ac.uk/showfile.cgi?key=2015:1:59:c4:SPECS:wl3912"
+                },
+                {
+                    "name": "Coursework One",
+                    "category": "CW",
+                    "type": "GREEN",
+                    "sequence": 1,
+                    "startTime": "2015-10-26T00:00:00Z",
+                    "endDay": "2015-11-10T00:00:00Z",
+                    "ownerEmail": "yoshida@imperial.ac.uk",
+                    "handinUrl": null,
+                    "givenUrl": null,
+                    "specUrl": "https://cate.doc.ic.ac.uk/showfile.cgi?key=2015:1:58:c4:SPECS:wl3912"
+                },
+                {
+                    "name": "Tutorial Two",
+                    "category": "TUT",
+                    "type": "WHITE",
+                    "sequence": 3,
+                    "startTime": "2015-10-19T00:00:00Z",
+                    "endDay": "2015-10-31T00:00:00Z",
+                    "ownerEmail": "yoshida@imperial.ac.uk",
+                    "handinUrl": null,
+                    "givenUrl": "https://cate.doc.ic.ac.uk/given.cgi?key=2015:1:89:c4:new:wl3912",
+                    "specUrl": "https://cate.doc.ic.ac.uk/showfile.cgi?key=2015:1:61:c4:SPECS:wl3912"
+                },
+                {
+                    "name": "Tutorial Three",
+                    "category": "TUT",
+                    "type": "WHITE",
+                    "sequence": 4,
+                    "startTime": "2015-11-02T00:00:00Z",
+                    "endDay": "2015-11-14T00:00:00Z",
+                    "ownerEmail": "yoshida@imperial.ac.uk",
+                    "handinUrl": null,
+                    "givenUrl": "https://cate.doc.ic.ac.uk/given.cgi?key=2015:1:90:c4:new:wl3912",
+                    "specUrl": "https://cate.doc.ic.ac.uk/showfile.cgi?key=2015:1:62:c4:SPECS:wl3912"
+                },
+                {
+                    "name": "Tutorial Four",
+                    "category": "TUT",
+                    "type": "WHITE",
+                    "sequence": 5,
+                    "startTime": "2015-11-09T00:00:00Z",
+                    "endDay": "2015-12-05T00:00:00Z",
+                    "ownerEmail": "yoshida@imperial.ac.uk",
+                    "handinUrl": null,
+                    "givenUrl": "https://cate.doc.ic.ac.uk/given.cgi?key=2015:1:216:c4:new:wl3912",
+                    "specUrl": "https://cate.doc.ic.ac.uk/showfile.cgi?key=2015:1:537:c4:SPECS:wl3912"
+                }
+            ]
+        },
+        {
+            "id": "421",
+            "name": "Computational Neurodynamics",
+            "notesUrl": null,
+            "exercises": [
+                {
+                    "name": "Dynamical Complexity",
+                    "category": "CBC",
+                    "type": "PINK",
+                    "sequence": 4,
+                    "startTime": "2015-11-05T00:00:00Z",
+                    "endDay": "2015-11-26T00:00:00Z",
+                    "ownerEmail": "mpsha@imperial.ac.uk",
+                    "handinUrl": null,
+                    "givenUrl": null,
+                    "specUrl": "https://cate.doc.ic.ac.uk/showfile.cgi?key=2015:1:398:c4:SPECS:wl3912"
+                }
+            ]
+        },
+        {
+            "id": "440",
+            "name": "Software Reliability",
+            "notesUrl": null,
+            "exercises": [
+                {
+                    "name": "SRTool Part 1",
+                    "category": "CW",
+                    "type": "PINK",
+                    "sequence": 1,
+                    "startTime": "2015-10-12T00:00:00Z",
+                    "endDay": "2015-11-10T00:00:00Z",
+                    "ownerEmail": "afd@imperial.ac.uk",
+                    "handinUrl": null,
+                    "givenUrl": "https://cate.doc.ic.ac.uk/given.cgi?key=2015:1:176:c4:new:wl3912",
+                    "specUrl": "https://cate.doc.ic.ac.uk/showfile.cgi?key=2015:1:136:c4:SPECS:wl3912"
+                },
+                {
+                    "name": "Tutorial sheet - Houdini",
+                    "category": "TUT",
+                    "type": "WHITE",
+                    "sequence": 5,
+                    "startTime": "2015-11-12T00:00:00Z",
+                    "endDay": "2015-11-26T00:00:00Z",
+                    "ownerEmail": "afd@imperial.ac.uk",
+                    "handinUrl": null,
+                    "givenUrl": null,
+                    "specUrl": "https://cate.doc.ic.ac.uk/showfile.cgi?key=2015:1:574:c4:SPECS:wl3912"
+                },
+                {
+                    "name": "Exam-style questions",
+                    "category": "TUT",
+                    "type": "WHITE",
+                    "sequence": 14,
+                    "startTime": "2015-11-30T00:00:00Z",
+                    "endDay": "2015-12-15T00:00:00Z",
+                    "ownerEmail": "afd@imperial.ac.uk",
+                    "handinUrl": null,
+                    "givenUrl": "https://cate.doc.ic.ac.uk/given.cgi?key=2015:1:332:c4:new:wl3912",
+                    "specUrl": "https://cate.doc.ic.ac.uk/showfile.cgi?key=2015:1:650:c4:SPECS:wl3912"
+                },
+                {
+                    "name": "SRTool Part 2",
+                    "category": "CW",
+                    "type": "PINK",
+                    "sequence": 2,
+                    "startTime": "2015-10-19T00:00:00Z",
+                    "endDay": "2015-12-02T00:00:00Z",
+                    "ownerEmail": "afd@imperial.ac.uk",
+                    "handinUrl": null,
+                    "givenUrl": "https://cate.doc.ic.ac.uk/given.cgi?key=2015:1:177:c4:new:wl3912",
+                    "specUrl": "https://cate.doc.ic.ac.uk/showfile.cgi?key=2015:1:329:c4:SPECS:wl3912"
+                },
+                {
+                    "name": "Tutorial sheet - static program verification",
+                    "category": "TUT",
+                    "type": "WHITE",
+                    "sequence": 3,
+                    "startTime": "2015-10-20T00:00:00Z",
+                    "endDay": "2015-11-03T00:00:00Z",
+                    "ownerEmail": "afd@imperial.ac.uk",
+                    "handinUrl": null,
+                    "givenUrl": "https://cate.doc.ic.ac.uk/given.cgi?key=2015:1:194:c4:new:wl3912",
+                    "specUrl": "https://cate.doc.ic.ac.uk/showfile.cgi?key=2015:1:192:c4:SPECS:wl3912"
+                },
+                {
+                    "name": "Tutorial sheet - dynamic symbolic execution",
+                    "category": "TUT",
+                    "type": "WHITE",
+                    "sequence": 6,
+                    "startTime": "2015-11-12T00:00:00Z",
+                    "endDay": "2015-11-26T00:00:00Z",
+                    "ownerEmail": "afd@imperial.ac.uk",
+                    "handinUrl": null,
+                    "givenUrl": null,
+                    "specUrl": "https://cate.doc.ic.ac.uk/showfile.cgi?key=2015:1:524:c4:SPECS:wl3912"
+                },
+                {
+                    "name": "Tutorial sheet - bounded model checking",
+                    "category": "TUT",
+                    "type": "WHITE",
+                    "sequence": 4,
+                    "startTime": "2015-10-28T00:00:00Z",
+                    "endDay": "2015-11-11T00:00:00Z",
+                    "ownerEmail": "afd@imperial.ac.uk",
+                    "handinUrl": null,
+                    "givenUrl": null,
+                    "specUrl": "https://cate.doc.ic.ac.uk/showfile.cgi?key=2015:1:300:c4:SPECS:wl3912"
+                },
+                {
+                    "name": "Tutorial sheet - CEGAR",
+                    "category": "TUT",
+                    "type": "WHITE",
+                    "sequence": 7,
+                    "startTime": "2015-11-12T00:00:00Z",
+                    "endDay": "2015-11-26T00:00:00Z",
+                    "ownerEmail": "afd@imperial.ac.uk",
+                    "handinUrl": null,
+                    "givenUrl": null,
+                    "specUrl": "https://cate.doc.ic.ac.uk/showfile.cgi?key=2015:1:525:c4:SPECS:wl3912"
+                },
+                {
+                    "name": "Discussion questions for KLEE paper",
+                    "category": "TUT",
+                    "type": "WHITE",
+                    "sequence": 10,
+                    "startTime": "2015-11-12T00:00:00Z",
+                    "endDay": "2015-11-26T00:00:00Z",
+                    "ownerEmail": "afd@imperial.ac.uk",
+                    "handinUrl": null,
+                    "givenUrl": null,
+                    "specUrl": "https://cate.doc.ic.ac.uk/showfile.cgi?key=2015:1:527:c4:SPECS:wl3912"
+                },
+                {
+                    "name": "Discussion questions for SLAM paper",
+                    "category": "TUT",
+                    "type": "WHITE",
+                    "sequence": 11,
+                    "startTime": "2015-11-12T00:00:00Z",
+                    "endDay": "2015-11-26T00:00:00Z",
+                    "ownerEmail": "afd@imperial.ac.uk",
+                    "handinUrl": null,
+                    "givenUrl": null,
+                    "specUrl": "https://cate.doc.ic.ac.uk/showfile.cgi?key=2015:1:528:c4:SPECS:wl3912"
+                },
+                {
+                    "name": "Tutorial sheet - analysis of GPU kernels",
+                    "category": "TUT",
+                    "type": "WHITE",
+                    "sequence": 8,
+                    "startTime": "2015-11-16T00:00:00Z",
+                    "endDay": "2015-11-24T00:00:00Z",
+                    "ownerEmail": "afd@imperial.ac.uk",
+                    "handinUrl": null,
+                    "givenUrl": null,
+                    "specUrl": "https://cate.doc.ic.ac.uk/showfile.cgi?key=2015:1:526:c4:SPECS:wl3912"
+                },
+                {
+                    "name": "Discussion questions for CORRAL paper",
+                    "category": "TUT",
+                    "type": "WHITE",
+                    "sequence": 12,
+                    "startTime": "2015-11-19T00:00:00Z",
+                    "endDay": "2015-11-27T00:00:00Z",
+                    "ownerEmail": "afd@imperial.ac.uk",
+                    "handinUrl": null,
+                    "givenUrl": null,
+                    "specUrl": "https://cate.doc.ic.ac.uk/showfile.cgi?key=2015:1:615:c4:SPECS:wl3912"
+                },
+                {
+                    "name": "Tutorial sheet - compilers and undefined behaviour - concurrency testing",
+                    "category": "TUT",
+                    "type": "WHITE",
+                    "sequence": 9,
+                    "startTime": "2015-11-23T00:00:00Z",
+                    "endDay": "2015-12-01T00:00:00Z",
+                    "ownerEmail": "afd@imperial.ac.uk",
+                    "handinUrl": null,
+                    "givenUrl": null,
+                    "specUrl": "https://cate.doc.ic.ac.uk/showfile.cgi?key=2015:1:614:c4:SPECS:wl3912"
+                }
+            ]
+        },
+        {
+            "id": "464",
+            "name": "Industrial Placement - Presentation and Report",
+            "notesUrl": null,
+            "exercises": [
+                {
+                    "name": "Placement Presentation",
+                    "category": "REP",
+                    "type": "GREEN",
+                    "sequence": 1,
+                    "startTime": "2015-10-05T00:00:00Z",
+                    "endDay": "2015-10-07T00:00:00Z",
+                    "ownerEmail": "vnicholl@imperial.ac.uk",
+                    "handinUrl": null,
+                    "givenUrl": null,
+                    "specUrl": null
+                },
+                {
+                    "name": "Placement Report",
+                    "category": "REP",
+                    "type": "GREEN",
+                    "sequence": 2,
+                    "startTime": "2015-10-05T00:00:00Z",
+                    "endDay": "2015-10-20T00:00:00Z",
+                    "ownerEmail": "vnicholl@imperial.ac.uk",
+                    "handinUrl": null,
+                    "givenUrl": null,
+                    "specUrl": null
+                },
+                {
+                    "name": "Placement Logbook",
+                    "category": "REP",
+                    "type": "GREY",
+                    "sequence": 3,
+                    "startTime": "2015-10-05T00:00:00Z",
+                    "endDay": "2015-10-20T00:00:00Z",
+                    "ownerEmail": "vnicholl@imperial.ac.uk",
+                    "handinUrl": null,
+                    "givenUrl": null,
+                    "specUrl": null
+                }
+            ]
+        },
+        {
+            "id": "471",
+            "name": "Advanced Issues in Object Oriented Programming",
+            "notesUrl": null,
+            "exercises": [
+                {
+                    "name": "Background",
+                    "category": "TUT",
+                    "type": "WHITE",
+                    "sequence": 2,
+                    "startTime": "2015-10-05T00:00:00Z",
+                    "endDay": "2015-10-16T00:00:00Z",
+                    "ownerEmail": "scd@imperial.ac.uk",
+                    "handinUrl": null,
+                    "givenUrl": "https://cate.doc.ic.ac.uk/given.cgi?key=2015:1:180:c4:new:wl3912",
+                    "specUrl": "https://cate.doc.ic.ac.uk/showfile.cgi?key=2015:1:134:c4:SPECS:wl3912"
+                },
+                {
+                    "name": "L1_types",
+                    "category": "TUT",
+                    "type": "WHITE",
+                    "sequence": 4,
+                    "startTime": "2015-10-19T00:00:00Z",
+                    "endDay": "2015-10-30T00:00:00Z",
+                    "ownerEmail": "scd@imperial.ac.uk",
+                    "handinUrl": null,
+                    "givenUrl": "https://cate.doc.ic.ac.uk/given.cgi?key=2015:1:220:c4:new:wl3912",
+                    "specUrl": "https://cate.doc.ic.ac.uk/showfile.cgi?key=2015:1:294:c4:SPECS:wl3912"
+                },
+                {
+                    "name": "C++_virt_MultInh",
+                    "category": "TUT",
+                    "type": "WHITE",
+                    "sequence": 9,
+                    "startTime": "2015-11-02T00:00:00Z",
+                    "endDay": "2015-11-13T00:00:00Z",
+                    "ownerEmail": "scd@imperial.ac.uk",
+                    "handinUrl": null,
+                    "givenUrl": "https://cate.doc.ic.ac.uk/given.cgi?key=2015:1:284:c4:new:wl3912",
+                    "specUrl": "https://cate.doc.ic.ac.uk/showfile.cgi?key=2015:1:519:c4:SPECS:wl3912"
+                },
+                {
+                    "name": "JVM",
+                    "category": "TUT",
+                    "type": "WHITE",
+                    "sequence": 10,
+                    "startTime": "2015-11-16T00:00:00Z",
+                    "endDay": "2015-11-24T00:00:00Z",
+                    "ownerEmail": "scd@imperial.ac.uk",
+                    "handinUrl": null,
+                    "givenUrl": "https://cate.doc.ic.ac.uk/given.cgi?key=2015:1:312:c4:new:wl3912",
+                    "specUrl": "https://cate.doc.ic.ac.uk/showfile.cgi?key=2015:1:590:c4:SPECS:wl3912"
+                },
+                {
+                    "name": "L1 operational semantics",
+                    "category": "TUT",
+                    "type": "WHITE",
+                    "sequence": 3,
+                    "startTime": "2015-10-13T00:00:00Z",
+                    "endDay": "2015-10-28T00:00:00Z",
+                    "ownerEmail": "scd@imperial.ac.uk",
+                    "handinUrl": null,
+                    "givenUrl": "https://cate.doc.ic.ac.uk/given.cgi?key=2015:1:186:c4:new:wl3912",
+                    "specUrl": "https://cate.doc.ic.ac.uk/showfile.cgi?key=2015:1:148:c4:SPECS:wl3912"
+                },
+                {
+                    "name": "C++_non_Virt_MultInh",
+                    "category": "TUT",
+                    "type": "WHITE",
+                    "sequence": 8,
+                    "startTime": "2015-11-03T00:00:00Z",
+                    "endDay": "2015-11-13T00:00:00Z",
+                    "ownerEmail": "scd@imperial.ac.uk",
+                    "handinUrl": null,
+                    "givenUrl": "https://cate.doc.ic.ac.uk/given.cgi?key=2015:1:283:c4:new:wl3912",
+                    "specUrl": "https://cate.doc.ic.ac.uk/showfile.cgi?key=2015:1:517:c4:SPECS:wl3912"
+                },
+                {
+                    "name": "Dynamic-linking-and-loading",
+                    "category": "TUT",
+                    "type": "WHITE",
+                    "sequence": 11,
+                    "startTime": "2015-11-17T00:00:00Z",
+                    "endDay": "2015-11-25T00:00:00Z",
+                    "ownerEmail": "scd@imperial.ac.uk",
+                    "handinUrl": null,
+                    "givenUrl": "https://cate.doc.ic.ac.uk/given.cgi?key=2015:1:325:c4:new:wl3912",
+                    "specUrl": "https://cate.doc.ic.ac.uk/showfile.cgi?key=2015:1:612:c4:SPECS:wl3912"
+                },
+                {
+                    "name": "L2",
+                    "category": "TUT",
+                    "type": "WHITE",
+                    "sequence": 5,
+                    "startTime": "2015-10-26T00:00:00Z",
+                    "endDay": "2015-11-03T00:00:00Z",
+                    "ownerEmail": "scd@imperial.ac.uk",
+                    "handinUrl": null,
+                    "givenUrl": "https://cate.doc.ic.ac.uk/given.cgi?key=2015:1:234:c4:new:wl3912",
+                    "specUrl": "https://cate.doc.ic.ac.uk/showfile.cgi?key=2015:1:351:c4:SPECS:wl3912"
+                },
+                {
+                    "name": "Ownership",
+                    "category": "TUT",
+                    "type": "WHITE",
+                    "sequence": 12,
+                    "startTime": "2015-11-23T00:00:00Z",
+                    "endDay": "2015-12-02T00:00:00Z",
+                    "ownerEmail": "scd@imperial.ac.uk",
+                    "handinUrl": null,
+                    "givenUrl": "https://cate.doc.ic.ac.uk/given.cgi?key=2015:1:331:c4:new:wl3912",
+                    "specUrl": "https://cate.doc.ic.ac.uk/showfile.cgi?key=2015:1:644:c4:SPECS:wl3912"
+                },
+                {
+                    "name": "C++_impl_Single Inherit",
+                    "category": "TUT",
+                    "type": "WHITE",
+                    "sequence": 6,
+                    "startTime": "2015-10-26T00:00:00Z",
+                    "endDay": "2015-11-06T00:00:00Z",
+                    "ownerEmail": "scd@imperial.ac.uk",
+                    "handinUrl": null,
+                    "givenUrl": "https://cate.doc.ic.ac.uk/given.cgi?key=2015:1:247:c4:new:wl3912",
+                    "specUrl": "https://cate.doc.ic.ac.uk/showfile.cgi?key=2015:1:362:c4:SPECS:wl3912"
+                },
+                {
+                    "name": "C++ warmup",
+                    "category": "TUT",
+                    "type": "WHITE",
+                    "sequence": 7,
+                    "startTime": "2015-10-26T00:00:00Z",
+                    "endDay": "2015-11-06T00:00:00Z",
+                    "ownerEmail": "scd@imperial.ac.uk",
+                    "handinUrl": null,
+                    "givenUrl": "https://cate.doc.ic.ac.uk/given.cgi?key=2015:1:248:c4:new:wl3912",
+                    "specUrl": "https://cate.doc.ic.ac.uk/showfile.cgi?key=2015:1:377:c4:SPECS:wl3912"
+                },
+                {
+                    "name": "L3_C++_Like_model",
+                    "category": "CW",
+                    "type": "PINK",
+                    "sequence": 1,
+                    "startTime": "2015-10-27T00:00:00Z",
+                    "endDay": "2015-11-20T00:00:00Z",
+                    "ownerEmail": "scd@imperial.ac.uk",
+                    "handinUrl": null,
+                    "givenUrl": null,
+                    "specUrl": "https://cate.doc.ic.ac.uk/showfile.cgi?key=2015:1:155:c4:SPECS:wl3912"
+                }
+            ]
+        }
+    ]
+}

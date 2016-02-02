@@ -1,0 +1,254 @@
+{
+    "today": "2016-01-17T00:00:00Z",
+    "subjects": [
+        {
+            "id": "322",
+            "name": "Communicating Computer Science in Schools",
+            "notesUrl": null,
+            "exercises": [
+                {
+                    "name": "Weekly Diaries",
+                    "category": "REP",
+                    "type": "GREEN",
+                    "sequence": 1,
+                    "startTime": "2016-01-18T00:00Z",
+                    "endDay": "2016-03-24T00:00Z",
+                    "ownerEmail": "axgopala@imperial.ac.uk",
+                    "handinUrl": null,
+                    "givenUrl": null,
+                    "specUrl": null
+                },
+                {
+                    "name": "Teaching Materials",
+                    "category": "PROJ",
+                    "type": "GREEN",
+                    "sequence": 2,
+                    "startTime": "2016-01-18T00:00Z",
+                    "endDay": "2016-03-24T00:00Z",
+                    "ownerEmail": "axgopala@imperial.ac.uk",
+                    "handinUrl": null,
+                    "givenUrl": null,
+                    "specUrl": null
+                },
+                {
+                    "name": "Final Presentation",
+                    "category": "REP",
+                    "type": "GREEN",
+                    "sequence": 3,
+                    "startTime": "2016-03-07T00:00Z",
+                    "endDay": "2016-03-24T00:00Z",
+                    "ownerEmail": "axgopala@imperial.ac.uk",
+                    "handinUrl": null,
+                    "givenUrl": null,
+                    "specUrl": null
+                },
+                {
+                    "name": "Final Report",
+                    "category": "REP",
+                    "type": "GREEN",
+                    "sequence": 5,
+                    "startTime": "2016-03-14T00:00Z",
+                    "endDay": "2016-04-30T00:00Z",
+                    "ownerEmail": "axgopala@imperial.ac.uk",
+                    "handinUrl": null,
+                    "givenUrl": null,
+                    "specUrl": null
+                },
+                {
+                    "name": "Teacher Evaluation",
+                    "category": "T",
+                    "type": "GREEN",
+                    "sequence": 4,
+                    "startTime": "2016-03-23T00:00Z",
+                    "endDay": "2016-03-24T00:00Z",
+                    "ownerEmail": "axgopala@imperial.ac.uk",
+                    "handinUrl": null,
+                    "givenUrl": null,
+                    "specUrl": null
+                }
+            ]
+        },
+        {
+            "id": "401",
+            "name": "Individual Project MEng",
+            "notesUrl": null,
+            "exercises": [
+                {
+                    "name": "Interim Report",
+                    "category": "REP",
+                    "type": "GREY",
+                    "sequence": 1,
+                    "startTime": "2015-11-10T00:00Z",
+                    "endDay": "2016-01-30T00:00Z",
+                    "ownerEmail": "axgopala@imperial.ac.uk",
+                    "handinUrl": "https://cate.doc.ic.ac.uk/handins.cgi?key=2015:3:120:c4:new:wl3912",
+                    "givenUrl": null,
+                    "specUrl": null
+                },
+                {
+                    "name": "Final Project Archive",
+                    "category": "PROJ",
+                    "type": "GREY",
+                    "sequence": 5,
+                    "startTime": "2016-02-19T00:00Z",
+                    "endDay": "2016-06-28T00:00Z",
+                    "ownerEmail": "axgopala@imperial.ac.uk",
+                    "handinUrl": null,
+                    "givenUrl": null,
+                    "specUrl": null
+                },
+                {
+                    "name": "Preliminary Source Code Archive",
+                    "category": "PROJ",
+                    "type": "GREY",
+                    "sequence": 4,
+                    "startTime": "2015-11-10T00:00Z",
+                    "endDay": "2016-06-28T00:00Z",
+                    "ownerEmail": "axgopala@imperial.ac.uk",
+                    "handinUrl": "https://cate.doc.ic.ac.uk/handins.cgi?key=2015:3:128:c4:new:wl3912",
+                    "givenUrl": null,
+                    "specUrl": null
+                }
+            ]
+        },
+        {
+            "id": "410H",
+            "name": "Scalable Distributed Systems Design",
+            "notesUrl": null,
+            "exercises": []
+        },
+        {
+            "id": "422",
+            "name": "Computational Finance",
+            "notesUrl": null,
+            "exercises": []
+        },
+        {
+            "id": "475",
+            "name": "Software Engineering for Industry",
+            "notesUrl": null,
+            "exercises": [
+                {
+                    "name": "Topic 1",
+                    "category": "CW",
+                    "type": "PINK",
+                    "sequence": 1,
+                    "startTime": "2016-01-11T00:00Z",
+                    "endDay": "2016-01-26T00:00Z",
+                    "ownerEmail": "rbc@imperial.ac.uk",
+                    "handinUrl": "https://cate.doc.ic.ac.uk/handins.cgi?key=2015:3:298:c4:new:wl3912",
+                    "givenUrl": null,
+                    "specUrl": "https://cate.doc.ic.ac.uk/showfile.cgi?key=2015:3:538:c4:SPECS:wl3912"
+                },
+                {
+                    "name": "Topic 3",
+                    "category": "CW",
+                    "type": "PINK",
+                    "sequence": 3,
+                    "startTime": "2016-02-01T00:00Z",
+                    "endDay": "2016-02-09T00:00Z",
+                    "ownerEmail": "rbc@imperial.ac.uk",
+                    "handinUrl": null,
+                    "givenUrl": null,
+                    "specUrl": null
+                },
+                {
+                    "name": "Topic 5",
+                    "category": "CW",
+                    "type": "PINK",
+                    "sequence": 5,
+                    "startTime": "2016-02-15T00:00Z",
+                    "endDay": "2016-02-23T00:00Z",
+                    "ownerEmail": "rbc@imperial.ac.uk",
+                    "handinUrl": null,
+                    "givenUrl": null,
+                    "specUrl": null
+                },
+                {
+                    "name": "Topic 7",
+                    "category": "CW",
+                    "type": "PINK",
+                    "sequence": 7,
+                    "startTime": "2016-02-29T00:00Z",
+                    "endDay": "2016-03-08T00:00Z",
+                    "ownerEmail": "rbc@imperial.ac.uk",
+                    "handinUrl": null,
+                    "givenUrl": null,
+                    "specUrl": null
+                },
+                {
+                    "name": "Topic 2",
+                    "category": "CW",
+                    "type": "PINK",
+                    "sequence": 2,
+                    "startTime": "2016-01-25T00:00Z",
+                    "endDay": "2016-02-02T00:00Z",
+                    "ownerEmail": "rbc@imperial.ac.uk",
+                    "handinUrl": null,
+                    "givenUrl": null,
+                    "specUrl": null
+                },
+                {
+                    "name": "Topic 4",
+                    "category": "CW",
+                    "type": "PINK",
+                    "sequence": 4,
+                    "startTime": "2016-02-08T00:00Z",
+                    "endDay": "2016-02-16T00:00Z",
+                    "ownerEmail": "rbc@imperial.ac.uk",
+                    "handinUrl": null,
+                    "givenUrl": null,
+                    "specUrl": null
+                },
+                {
+                    "name": "Topic 6",
+                    "category": "CW",
+                    "type": "PINK",
+                    "sequence": 6,
+                    "startTime": "2016-02-22T00:00Z",
+                    "endDay": "2016-03-01T00:00Z",
+                    "ownerEmail": "rbc@imperial.ac.uk",
+                    "handinUrl": null,
+                    "givenUrl": null,
+                    "specUrl": null
+                },
+                {
+                    "name": "Course Review",
+                    "category": "REP",
+                    "type": "GREEN",
+                    "sequence": 10,
+                    "startTime": "2016-03-07T00:00Z",
+                    "endDay": "2016-03-12T00:00Z",
+                    "ownerEmail": "rbc@imperial.ac.uk",
+                    "handinUrl": null,
+                    "givenUrl": null,
+                    "specUrl": null
+                },
+                {
+                    "name": "Main CW1",
+                    "category": "CW",
+                    "type": "PINK",
+                    "sequence": 8,
+                    "startTime": "2016-01-25T00:00Z",
+                    "endDay": "2016-02-16T00:00Z",
+                    "ownerEmail": "rbc@imperial.ac.uk",
+                    "handinUrl": null,
+                    "givenUrl": null,
+                    "specUrl": null
+                },
+                {
+                    "name": "Main CW2",
+                    "category": "CW",
+                    "type": "PINK",
+                    "sequence": 9,
+                    "startTime": "2016-02-16T00:00Z",
+                    "endDay": "2016-03-12T00:00Z",
+                    "ownerEmail": "rbc@imperial.ac.uk",
+                    "handinUrl": null,
+                    "givenUrl": null,
+                    "specUrl": null
+                }
+            ]
+        }
+    ]
+}

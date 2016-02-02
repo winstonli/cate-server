@@ -1,0 +1,2241 @@
+{
+    "days": {
+        "MONDAY": [
+            {
+                "day": "MONDAY",
+                "subjectId": "331",
+                "subjectName": "Network and Web Security",
+                "type": "LECTURE",
+                "weeks": [
+                    2,
+                    3,
+                    4,
+                    5,
+                    6,
+                    7,
+                    8,
+                    9
+                ],
+                "courses": [
+                    "c3",
+                    "s5",
+                    "r5",
+                    "o3",
+                    "a5",
+                    "j3",
+                    "j4",
+                    "i4",
+                    "h5"
+                ],
+                "rooms": [
+                    "311"
+                ],
+                "lecturers": [
+                    "Sergio Maffeis"
+                ],
+                "startTime": "09:00",
+                "endTime": "10:00"
+            },
+            {
+                "day": "MONDAY",
+                "subjectId": "M2S2",
+                "subjectName": "Statistical Modelling I",
+                "type": "LECTURE",
+                "weeks": [
+                    2,
+                    3,
+                    4,
+                    5,
+                    6,
+                    7,
+                    8,
+                    9,
+                    10,
+                    11
+                ],
+                "courses": [
+                    "c3",
+                    "j2",
+                    "j3"
+                ],
+                "rooms": [
+                    "340"
+                ],
+                "lecturers": [
+                    "Ben Calderhead"
+                ],
+                "startTime": "09:00",
+                "endTime": "10:00"
+            },
+            {
+                "day": "MONDAY",
+                "subjectId": "331",
+                "subjectName": "Network and Web Security",
+                "type": "LECTURE",
+                "weeks": [
+                    2,
+                    3,
+                    4,
+                    5,
+                    6,
+                    7,
+                    8,
+                    9
+                ],
+                "courses": [
+                    "c3",
+                    "s5",
+                    "r5",
+                    "o3",
+                    "a5",
+                    "j3",
+                    "j4",
+                    "i4",
+                    "h5"
+                ],
+                "rooms": [
+                    "311"
+                ],
+                "lecturers": [
+                    "Sergio Maffeis"
+                ],
+                "startTime": "10:00",
+                "endTime": "11:00"
+            },
+            {
+                "day": "MONDAY",
+                "subjectId": "303",
+                "subjectName": "Systems Verification",
+                "type": "LECTURE",
+                "weeks": [
+                    2,
+                    3,
+                    4,
+                    5,
+                    6,
+                    7,
+                    8,
+                    9
+                ],
+                "courses": [
+                    "c3",
+                    "s5",
+                    "r5",
+                    "o3",
+                    "a5",
+                    "j3",
+                    "h5"
+                ],
+                "rooms": [
+                    "145"
+                ],
+                "lecturers": [
+                    "Alessio R Lomuscio"
+                ],
+                "startTime": "11:00",
+                "endTime": "12:00"
+            },
+            {
+                "day": "MONDAY",
+                "subjectId": "303",
+                "subjectName": "Systems Verification",
+                "type": "LECTURE",
+                "weeks": [
+                    2,
+                    3,
+                    4,
+                    5,
+                    6,
+                    7,
+                    8,
+                    9
+                ],
+                "courses": [
+                    "c3",
+                    "s5",
+                    "r5",
+                    "o3",
+                    "a5",
+                    "j3",
+                    "h5"
+                ],
+                "rooms": [
+                    "145"
+                ],
+                "lecturers": [
+                    "Alessio R Lomuscio"
+                ],
+                "startTime": "12:00",
+                "endTime": "13:00"
+            },
+            {
+                "day": "MONDAY",
+                "subjectId": "M2S2",
+                "subjectName": "Statistical Modelling I",
+                "type": "LECTURE",
+                "weeks": [
+                    2,
+                    3,
+                    4,
+                    5,
+                    6,
+                    7,
+                    8,
+                    9,
+                    10,
+                    11
+                ],
+                "courses": [
+                    "c3",
+                    "j2",
+                    "j3"
+                ],
+                "rooms": [
+                    "340"
+                ],
+                "lecturers": [
+                    "Ben Calderhead"
+                ],
+                "startTime": "13:00",
+                "endTime": "14:00"
+            },
+            {
+                "day": "MONDAY",
+                "subjectId": "304",
+                "subjectName": "Logic-Based Learning",
+                "type": "LECTURE",
+                "weeks": [
+                    2,
+                    3,
+                    4,
+                    5,
+                    6,
+                    7,
+                    8,
+                    9
+                ],
+                "courses": [
+                    "c3",
+                    "s5",
+                    "r5",
+                    "o3",
+                    "a5",
+                    "j3",
+                    "h5",
+                    "v5"
+                ],
+                "rooms": [
+                    "308"
+                ],
+                "lecturers": [
+                    "Stephen H Muggleton",
+                    "Alessandra M Russo"
+                ],
+                "startTime": "14:00",
+                "endTime": "15:00"
+            },
+            {
+                "day": "MONDAY",
+                "subjectId": "317",
+                "subjectName": "Graphics",
+                "type": "LECTURE",
+                "weeks": [
+                    2,
+                    3,
+                    4,
+                    5,
+                    6,
+                    7,
+                    8,
+                    9
+                ],
+                "courses": [
+                    "c3",
+                    "s5",
+                    "o3",
+                    "j3",
+                    "i3",
+                    "j4",
+                    "h5",
+                    "v5"
+                ],
+                "rooms": [
+                    "311"
+                ],
+                "lecturers": [
+                    "Daniel Rueckert"
+                ],
+                "startTime": "14:00",
+                "endTime": "15:00"
+            },
+            {
+                "day": "MONDAY",
+                "subjectId": "304",
+                "subjectName": "Logic-Based Learning",
+                "type": "LECTURE",
+                "weeks": [
+                    3,
+                    4,
+                    5,
+                    6,
+                    7,
+                    8,
+                    9
+                ],
+                "courses": [
+                    "c3",
+                    "s5",
+                    "r5",
+                    "o3",
+                    "a5",
+                    "j3",
+                    "h5",
+                    "v5"
+                ],
+                "rooms": [
+                    "342"
+                ],
+                "lecturers": [
+                    "Stephen H Muggleton",
+                    "Alessandra M Russo"
+                ],
+                "startTime": "14:00",
+                "endTime": "15:00"
+            },
+            {
+                "day": "MONDAY",
+                "subjectId": "304",
+                "subjectName": "Logic-Based Learning",
+                "type": "LECTURE",
+                "weeks": [
+                    2,
+                    3,
+                    4,
+                    5,
+                    6,
+                    7,
+                    8,
+                    9
+                ],
+                "courses": [
+                    "c3",
+                    "s5",
+                    "r5",
+                    "o3",
+                    "a5",
+                    "j3",
+                    "h5",
+                    "v5"
+                ],
+                "rooms": [
+                    "308"
+                ],
+                "lecturers": [
+                    "Stephen H Muggleton",
+                    "Alessandra M Russo"
+                ],
+                "startTime": "15:00",
+                "endTime": "16:00"
+            },
+            {
+                "day": "MONDAY",
+                "subjectId": "317",
+                "subjectName": "Graphics",
+                "type": "LECTURE",
+                "weeks": [
+                    2,
+                    3,
+                    4,
+                    5,
+                    6,
+                    7,
+                    8,
+                    9
+                ],
+                "courses": [
+                    "c3",
+                    "s5",
+                    "o3",
+                    "j3",
+                    "i3",
+                    "j4",
+                    "h5",
+                    "v5"
+                ],
+                "rooms": [
+                    "311"
+                ],
+                "lecturers": [
+                    "Daniel Rueckert"
+                ],
+                "startTime": "15:00",
+                "endTime": "16:00"
+            },
+            {
+                "day": "MONDAY",
+                "subjectId": "332",
+                "subjectName": "Advanced Computer Architecture",
+                "type": "LECTURE",
+                "weeks": [
+                    2,
+                    3,
+                    4,
+                    5,
+                    6,
+                    7,
+                    8,
+                    9
+                ],
+                "courses": [
+                    "c3",
+                    "s5",
+                    "r5",
+                    "a5",
+                    "j3",
+                    "j4",
+                    "i4",
+                    "h5"
+                ],
+                "rooms": [
+                    "342"
+                ],
+                "lecturers": [
+                    "Paul H J Kelly"
+                ],
+                "startTime": "16:00",
+                "endTime": "17:00"
+            },
+            {
+                "day": "MONDAY",
+                "subjectId": "332",
+                "subjectName": "Advanced Computer Architecture",
+                "type": "LECTURE",
+                "weeks": [
+                    2,
+                    3,
+                    4,
+                    5,
+                    6,
+                    7,
+                    8,
+                    9
+                ],
+                "courses": [
+                    "c3",
+                    "s5",
+                    "r5",
+                    "a5",
+                    "j3",
+                    "j4",
+                    "i4",
+                    "h5"
+                ],
+                "rooms": [
+                    "342"
+                ],
+                "lecturers": [
+                    "Paul H J Kelly"
+                ],
+                "startTime": "17:00",
+                "endTime": "18:00"
+            }
+        ],
+        "TUESDAY": [
+            {
+                "day": "TUESDAY",
+                "subjectId": "333",
+                "subjectName": "Robotics",
+                "type": "LECTURE",
+                "weeks": [
+                    2
+                ],
+                "courses": [
+                    "c3",
+                    "s5",
+                    "o3",
+                    "j3",
+                    "i3",
+                    "h5",
+                    "v5"
+                ],
+                "rooms": [
+                    "311"
+                ],
+                "lecturers": [
+                    "Andrew J Davison"
+                ],
+                "startTime": "09:00",
+                "endTime": "10:00"
+            },
+            {
+                "day": "TUESDAY",
+                "subjectId": "M2S2",
+                "subjectName": "Statistical Modelling I",
+                "type": "LECTURE",
+                "weeks": [
+                    2,
+                    3,
+                    4,
+                    5,
+                    6,
+                    7,
+                    8,
+                    9,
+                    10,
+                    11
+                ],
+                "courses": [
+                    "c3",
+                    "j2",
+                    "j3"
+                ],
+                "rooms": [
+                    "340"
+                ],
+                "lecturers": [
+                    "Ben Calderhead"
+                ],
+                "startTime": "09:00",
+                "endTime": "10:00"
+            },
+            {
+                "day": "TUESDAY",
+                "subjectId": "333",
+                "subjectName": "Robotics",
+                "type": "LAB",
+                "weeks": [
+                    3,
+                    4,
+                    5,
+                    6,
+                    7,
+                    8,
+                    9
+                ],
+                "courses": [
+                    "c3",
+                    "s5",
+                    "o3",
+                    "j3",
+                    "i3",
+                    "h5",
+                    "v5"
+                ],
+                "rooms": [],
+                "lecturers": [
+                    "Andrew J Davison"
+                ],
+                "startTime": "09:00",
+                "endTime": "10:00"
+            },
+            {
+                "day": "TUESDAY",
+                "subjectId": "333",
+                "subjectName": "Robotics",
+                "type": "LECTURE",
+                "weeks": [
+                    2
+                ],
+                "courses": [
+                    "c3",
+                    "s5",
+                    "o3",
+                    "j3",
+                    "i3",
+                    "h5",
+                    "v5"
+                ],
+                "rooms": [
+                    "311"
+                ],
+                "lecturers": [
+                    "Andrew J Davison"
+                ],
+                "startTime": "10:00",
+                "endTime": "11:00"
+            },
+            {
+                "day": "TUESDAY",
+                "subjectId": "333",
+                "subjectName": "Robotics",
+                "type": "LAB",
+                "weeks": [
+                    3,
+                    4,
+                    5,
+                    6,
+                    7,
+                    8,
+                    9
+                ],
+                "courses": [
+                    "c3",
+                    "s5",
+                    "o3",
+                    "j3",
+                    "i3",
+                    "h5",
+                    "v5"
+                ],
+                "rooms": [],
+                "lecturers": [
+                    "Andrew J Davison"
+                ],
+                "startTime": "10:00",
+                "endTime": "11:00"
+            },
+            {
+                "day": "TUESDAY",
+                "subjectId": "M3SC",
+                "subjectName": "Scientific Computation",
+                "type": "TUTORIAL",
+                "weeks": [
+                    1,
+                    2,
+                    3,
+                    4,
+                    5,
+                    6,
+                    7,
+                    8,
+                    9,
+                    10,
+                    11
+                ],
+                "courses": [
+                    "c3",
+                    "j3"
+                ],
+                "rooms": [
+                    "414 - Mathematics Learning Centre"
+                ],
+                "lecturers": [
+                    "Dan R Moore"
+                ],
+                "startTime": "11:00",
+                "endTime": "12:00"
+            },
+            {
+                "day": "TUESDAY",
+                "subjectId": "M4SC",
+                "subjectName": "Scientific Computation",
+                "type": "TUTORIAL",
+                "weeks": [
+                    1,
+                    2,
+                    3,
+                    4,
+                    5,
+                    6,
+                    7,
+                    8,
+                    9,
+                    10,
+                    11
+                ],
+                "courses": [
+                    "c3",
+                    "j4"
+                ],
+                "rooms": [
+                    "414 - Mathematics Learning Centre"
+                ],
+                "lecturers": [
+                    "Dan R Moore"
+                ],
+                "startTime": "11:00",
+                "endTime": "12:00"
+            },
+            {
+                "day": "TUESDAY",
+                "subjectId": "M5SC",
+                "subjectName": "Scientific Computation",
+                "type": "TUTORIAL",
+                "weeks": [
+                    1,
+                    2,
+                    3,
+                    4,
+                    5,
+                    6,
+                    7,
+                    8,
+                    9,
+                    10,
+                    11
+                ],
+                "courses": [
+                    "c3"
+                ],
+                "rooms": [
+                    "414 - Mathematics Learning Centre"
+                ],
+                "lecturers": [
+                    "Dan R Moore"
+                ],
+                "startTime": "11:00",
+                "endTime": "12:00"
+            },
+            {
+                "day": "TUESDAY",
+                "subjectId": "318",
+                "subjectName": "Custom Computing",
+                "type": "LECTURE",
+                "weeks": [
+                    2,
+                    3,
+                    4,
+                    5,
+                    6,
+                    7,
+                    8,
+                    9
+                ],
+                "courses": [
+                    "c3",
+                    "s5",
+                    "r5",
+                    "a5",
+                    "j3",
+                    "i3",
+                    "h5"
+                ],
+                "rooms": [
+                    "145"
+                ],
+                "lecturers": [
+                    "Wayne Luk",
+                    "Timothy J Todman"
+                ],
+                "startTime": "11:00",
+                "endTime": "12:00"
+            },
+            {
+                "day": "TUESDAY",
+                "subjectId": null,
+                "subjectName": "Applications of Computing in Industry",
+                "type": "LECTURE",
+                "weeks": [
+                    1,
+                    2,
+                    3,
+                    4,
+                    5,
+                    6,
+                    7,
+                    8,
+                    9,
+                    10
+                ],
+                "courses": [
+                    "s5",
+                    "r5",
+                    "j1",
+                    "j2",
+                    "j3",
+                    "j4",
+                    "c1",
+                    "c2",
+                    "c3",
+                    "c4",
+                    "a5",
+                    "v5"
+                ],
+                "rooms": [
+                    "308"
+                ],
+                "lecturers": [
+                    "William J Knottenbelt",
+                    "Victoria Nicholl"
+                ],
+                "startTime": "12:00",
+                "endTime": "13:00"
+            },
+            {
+                "day": "TUESDAY",
+                "subjectId": "M3SC",
+                "subjectName": "Scientific Computation",
+                "type": "TUTORIAL",
+                "weeks": [
+                    1,
+                    2,
+                    3,
+                    4,
+                    5,
+                    6,
+                    7,
+                    8,
+                    9,
+                    10,
+                    11
+                ],
+                "courses": [
+                    "c3",
+                    "j3"
+                ],
+                "rooms": [
+                    "414 - Mathematics Learning Centre"
+                ],
+                "lecturers": [
+                    "Dan R Moore"
+                ],
+                "startTime": "12:00",
+                "endTime": "13:00"
+            },
+            {
+                "day": "TUESDAY",
+                "subjectId": "M4SC",
+                "subjectName": "Scientific Computation",
+                "type": "TUTORIAL",
+                "weeks": [
+                    1,
+                    2,
+                    3,
+                    4,
+                    5,
+                    6,
+                    7,
+                    8,
+                    9,
+                    10,
+                    11
+                ],
+                "courses": [
+                    "c3",
+                    "j4"
+                ],
+                "rooms": [
+                    "414 - Mathematics Learning Centre"
+                ],
+                "lecturers": [
+                    "Dan R Moore"
+                ],
+                "startTime": "12:00",
+                "endTime": "13:00"
+            },
+            {
+                "day": "TUESDAY",
+                "subjectId": "M5SC",
+                "subjectName": "Scientific Computation",
+                "type": "TUTORIAL",
+                "weeks": [
+                    1,
+                    2,
+                    3,
+                    4,
+                    5,
+                    6,
+                    7,
+                    8,
+                    9,
+                    10,
+                    11
+                ],
+                "courses": [
+                    "c3"
+                ],
+                "rooms": [
+                    "414 - Mathematics Learning Centre"
+                ],
+                "lecturers": [
+                    "Dan R Moore"
+                ],
+                "startTime": "12:00",
+                "endTime": "13:00"
+            },
+            {
+                "day": "TUESDAY",
+                "subjectId": "318",
+                "subjectName": "Custom Computing",
+                "type": "LECTURE",
+                "weeks": [
+                    2,
+                    3,
+                    4,
+                    5,
+                    6,
+                    7,
+                    8,
+                    9
+                ],
+                "courses": [
+                    "c3",
+                    "s5",
+                    "r5",
+                    "a5",
+                    "j3",
+                    "i3",
+                    "h5"
+                ],
+                "rooms": [
+                    "145"
+                ],
+                "lecturers": [
+                    "Wayne Luk",
+                    "Timothy J Todman"
+                ],
+                "startTime": "12:00",
+                "endTime": "13:00"
+            },
+            {
+                "day": "TUESDAY",
+                "subjectId": null,
+                "subjectName": "Applications of Computing in Industry",
+                "type": "LECTURE",
+                "weeks": [
+                    1,
+                    2,
+                    3,
+                    4,
+                    5,
+                    6,
+                    7,
+                    8,
+                    9,
+                    10
+                ],
+                "courses": [
+                    "s5",
+                    "r5",
+                    "j1",
+                    "j2",
+                    "j3",
+                    "j4",
+                    "c1",
+                    "c2",
+                    "c3",
+                    "c4",
+                    "a5",
+                    "v5"
+                ],
+                "rooms": [
+                    "308"
+                ],
+                "lecturers": [
+                    "William J Knottenbelt",
+                    "Victoria Nicholl"
+                ],
+                "startTime": "13:00",
+                "endTime": "14:00"
+            },
+            {
+                "day": "TUESDAY",
+                "subjectId": "341",
+                "subjectName": "Introduction to Bioinformatics",
+                "type": "LECTURE",
+                "weeks": [
+                    2,
+                    3,
+                    4,
+                    5,
+                    6,
+                    7,
+                    8,
+                    9
+                ],
+                "courses": [
+                    "c3",
+                    "s5",
+                    "o3",
+                    "j3",
+                    "i3",
+                    "h5",
+                    "v5"
+                ],
+                "rooms": [
+                    "144"
+                ],
+                "lecturers": [
+                    "Natasa Przulj"
+                ],
+                "startTime": "14:00",
+                "endTime": "15:00"
+            },
+            {
+                "day": "TUESDAY",
+                "subjectId": "M3SC",
+                "subjectName": "Scientific Computation",
+                "type": "TUTORIAL",
+                "weeks": [
+                    1,
+                    2,
+                    3,
+                    4,
+                    5,
+                    6,
+                    7,
+                    8,
+                    9,
+                    10,
+                    11
+                ],
+                "courses": [
+                    "c3",
+                    "j3"
+                ],
+                "rooms": [
+                    "414 - Mathematics Learning Centre"
+                ],
+                "lecturers": [
+                    "Dan R Moore"
+                ],
+                "startTime": "15:00",
+                "endTime": "16:00"
+            },
+            {
+                "day": "TUESDAY",
+                "subjectId": "M4SC",
+                "subjectName": "Scientific Computation",
+                "type": "TUTORIAL",
+                "weeks": [
+                    1,
+                    2,
+                    3,
+                    4,
+                    5,
+                    6,
+                    7,
+                    8,
+                    9,
+                    10,
+                    11
+                ],
+                "courses": [
+                    "c3",
+                    "j4"
+                ],
+                "rooms": [
+                    "414 - Mathematics Learning Centre"
+                ],
+                "lecturers": [
+                    "Dan R Moore"
+                ],
+                "startTime": "15:00",
+                "endTime": "16:00"
+            },
+            {
+                "day": "TUESDAY",
+                "subjectId": "M5SC",
+                "subjectName": "Scientific Computation",
+                "type": "TUTORIAL",
+                "weeks": [
+                    1,
+                    2,
+                    3,
+                    4,
+                    5,
+                    6,
+                    7,
+                    8,
+                    9,
+                    10,
+                    11
+                ],
+                "courses": [
+                    "c3"
+                ],
+                "rooms": [
+                    "414 - Mathematics Learning Centre"
+                ],
+                "lecturers": [
+                    "Dan R Moore"
+                ],
+                "startTime": "15:00",
+                "endTime": "16:00"
+            },
+            {
+                "day": "TUESDAY",
+                "subjectId": "341",
+                "subjectName": "Introduction to Bioinformatics",
+                "type": "LECTURE",
+                "weeks": [
+                    2,
+                    3,
+                    4,
+                    5,
+                    6,
+                    7,
+                    8,
+                    9
+                ],
+                "courses": [
+                    "c3",
+                    "s5",
+                    "o3",
+                    "j3",
+                    "i3",
+                    "h5",
+                    "v5"
+                ],
+                "rooms": [
+                    "144"
+                ],
+                "lecturers": [
+                    "Natasa Przulj"
+                ],
+                "startTime": "15:00",
+                "endTime": "16:00"
+            },
+            {
+                "day": "TUESDAY",
+                "subjectId": "M3SC",
+                "subjectName": "Scientific Computation",
+                "type": "TUTORIAL",
+                "weeks": [
+                    1,
+                    2,
+                    3,
+                    4,
+                    5,
+                    6,
+                    7,
+                    8,
+                    9,
+                    10,
+                    11
+                ],
+                "courses": [
+                    "c3",
+                    "j3"
+                ],
+                "rooms": [
+                    "414 - Mathematics Learning Centre"
+                ],
+                "lecturers": [
+                    "Dan R Moore"
+                ],
+                "startTime": "16:00",
+                "endTime": "17:00"
+            },
+            {
+                "day": "TUESDAY",
+                "subjectId": "M4SC",
+                "subjectName": "Scientific Computation",
+                "type": "TUTORIAL",
+                "weeks": [
+                    1,
+                    2,
+                    3,
+                    4,
+                    5,
+                    6,
+                    7,
+                    8,
+                    9,
+                    10,
+                    11
+                ],
+                "courses": [
+                    "c3",
+                    "j4"
+                ],
+                "rooms": [
+                    "414 - Mathematics Learning Centre"
+                ],
+                "lecturers": [
+                    "Dan R Moore"
+                ],
+                "startTime": "16:00",
+                "endTime": "17:00"
+            },
+            {
+                "day": "TUESDAY",
+                "subjectId": "M5SC",
+                "subjectName": "Scientific Computation",
+                "type": "TUTORIAL",
+                "weeks": [
+                    1,
+                    2,
+                    3,
+                    4,
+                    5,
+                    6,
+                    7,
+                    8,
+                    9,
+                    10,
+                    11
+                ],
+                "courses": [
+                    "c3"
+                ],
+                "rooms": [
+                    "414 - Mathematics Learning Centre"
+                ],
+                "lecturers": [
+                    "Dan R Moore"
+                ],
+                "startTime": "16:00",
+                "endTime": "17:00"
+            },
+            {
+                "day": "TUESDAY",
+                "subjectId": "350",
+                "subjectName": "Management and Business for Computing Engineers",
+                "type": "LECTURE",
+                "weeks": [
+                    2,
+                    3,
+                    4,
+                    5,
+                    6,
+                    7,
+                    8,
+                    9
+                ],
+                "courses": [
+                    "c3",
+                    "o3",
+                    "j3"
+                ],
+                "rooms": [
+                    "311"
+                ],
+                "lecturers": [],
+                "startTime": "16:00",
+                "endTime": "17:00"
+            },
+            {
+                "day": "TUESDAY",
+                "subjectId": "350",
+                "subjectName": "Management and Business for Computing Engineers",
+                "type": "LECTURE",
+                "weeks": [
+                    2,
+                    3,
+                    4,
+                    5,
+                    6,
+                    7,
+                    8,
+                    9
+                ],
+                "courses": [
+                    "c3",
+                    "o3",
+                    "j3"
+                ],
+                "rooms": [
+                    "311"
+                ],
+                "lecturers": [],
+                "startTime": "17:00",
+                "endTime": "18:00"
+            }
+        ],
+        "WEDNESDAY": [
+            {
+                "day": "WEDNESDAY",
+                "subjectId": "332",
+                "subjectName": "Advanced Computer Architecture",
+                "type": "LECTURE",
+                "weeks": [
+                    2,
+                    3,
+                    4,
+                    5,
+                    6,
+                    7,
+                    8,
+                    9
+                ],
+                "courses": [
+                    "c3",
+                    "s5",
+                    "r5",
+                    "a5",
+                    "j3",
+                    "j4",
+                    "i4",
+                    "h5"
+                ],
+                "rooms": [
+                    "145"
+                ],
+                "lecturers": [
+                    "Paul H J Kelly"
+                ],
+                "startTime": "09:00",
+                "endTime": "10:00"
+            },
+            {
+                "day": "WEDNESDAY",
+                "subjectId": "M2S2",
+                "subjectName": "Statistical Modelling I",
+                "type": "Problems class",
+                "weeks": [
+                    3,
+                    4,
+                    5,
+                    6,
+                    7,
+                    8,
+                    9,
+                    10
+                ],
+                "courses": [
+                    "c3",
+                    "j2",
+                    "j3"
+                ],
+                "rooms": [
+                    "341",
+                    "342"
+                ],
+                "lecturers": [
+                    "Ben Calderhead"
+                ],
+                "startTime": "09:00",
+                "endTime": "10:00"
+            },
+            {
+                "day": "WEDNESDAY",
+                "subjectId": "332",
+                "subjectName": "Advanced Computer Architecture",
+                "type": "LAB",
+                "weeks": [
+                    2,
+                    3,
+                    4,
+                    5,
+                    6,
+                    7,
+                    8,
+                    9
+                ],
+                "courses": [
+                    "c3",
+                    "s5",
+                    "r5",
+                    "a5",
+                    "j3",
+                    "j4",
+                    "i4",
+                    "h5"
+                ],
+                "rooms": [
+                    "202",
+                    "206"
+                ],
+                "lecturers": [
+                    "Paul H J Kelly"
+                ],
+                "startTime": "10:00",
+                "endTime": "11:00"
+            },
+            {
+                "day": "WEDNESDAY",
+                "subjectId": "M3SC",
+                "subjectName": "Scientific Computation",
+                "type": "LECTURE",
+                "weeks": [
+                    1,
+                    2,
+                    3,
+                    4,
+                    5,
+                    6,
+                    7,
+                    8,
+                    9,
+                    10,
+                    11
+                ],
+                "courses": [
+                    "c3",
+                    "j3"
+                ],
+                "rooms": [
+                    "213 - Clore Lecture Theatre"
+                ],
+                "lecturers": [
+                    "Dan R Moore"
+                ],
+                "startTime": "12:00",
+                "endTime": "13:00"
+            },
+            {
+                "day": "WEDNESDAY",
+                "subjectId": "M4SC",
+                "subjectName": "Scientific Computation",
+                "type": "LECTURE",
+                "weeks": [
+                    1,
+                    2,
+                    3,
+                    4,
+                    5,
+                    6,
+                    7,
+                    8,
+                    9,
+                    10,
+                    11
+                ],
+                "courses": [
+                    "c3",
+                    "j4"
+                ],
+                "rooms": [
+                    "213 - Clore Lecture Theatre"
+                ],
+                "lecturers": [
+                    "Dan R Moore"
+                ],
+                "startTime": "12:00",
+                "endTime": "13:00"
+            },
+            {
+                "day": "WEDNESDAY",
+                "subjectId": "M5SC",
+                "subjectName": "Scientific Computation",
+                "type": "LECTURE",
+                "weeks": [
+                    1,
+                    2,
+                    3,
+                    4,
+                    5,
+                    6,
+                    7,
+                    8,
+                    9,
+                    10,
+                    11
+                ],
+                "courses": [
+                    "c3"
+                ],
+                "rooms": [
+                    "213 - Clore Lecture Theatre"
+                ],
+                "lecturers": [
+                    "Dan R Moore"
+                ],
+                "startTime": "12:00",
+                "endTime": "13:00"
+            },
+            {
+                "day": "WEDNESDAY",
+                "subjectId": null,
+                "subjectName": "Individual Project Report Talk",
+                "type": "LECTURE",
+                "weeks": [
+                    2
+                ],
+                "courses": [
+                    "c3",
+                    "c4",
+                    "j3",
+                    "j4"
+                ],
+                "rooms": [
+                    "311"
+                ],
+                "lecturers": [
+                    "Anandha Gopalan"
+                ],
+                "startTime": "12:00",
+                "endTime": "13:00"
+            },
+            {
+                "day": "WEDNESDAY",
+                "subjectId": null,
+                "subjectName": "Machine Learning Seminar",
+                "type": "LECTURE",
+                "weeks": [
+                    3
+                ],
+                "courses": [
+                    "c3",
+                    "c4",
+                    "s5",
+                    "r5",
+                    "a5",
+                    "j3",
+                    "j4",
+                    "v5"
+                ],
+                "rooms": [
+                    "311"
+                ],
+                "lecturers": [],
+                "startTime": "14:00",
+                "endTime": "15:00"
+            },
+            {
+                "day": "WEDNESDAY",
+                "subjectId": null,
+                "subjectName": "Machine Learning Seminar",
+                "type": "LECTURE",
+                "weeks": [
+                    5,
+                    7
+                ],
+                "courses": [
+                    "c3",
+                    "c4",
+                    "s5",
+                    "r5",
+                    "a5",
+                    "j3",
+                    "j4",
+                    "v5"
+                ],
+                "rooms": [
+                    "308"
+                ],
+                "lecturers": [],
+                "startTime": "14:00",
+                "endTime": "15:00"
+            },
+            {
+                "day": "WEDNESDAY",
+                "subjectId": null,
+                "subjectName": "Machine Learning Seminar",
+                "type": "LECTURE",
+                "weeks": [
+                    3
+                ],
+                "courses": [
+                    "c3",
+                    "c4",
+                    "s5",
+                    "r5",
+                    "a5",
+                    "j3",
+                    "j4",
+                    "v5"
+                ],
+                "rooms": [
+                    "311"
+                ],
+                "lecturers": [],
+                "startTime": "15:00",
+                "endTime": "16:00"
+            },
+            {
+                "day": "WEDNESDAY",
+                "subjectId": null,
+                "subjectName": "Machine Learning Seminar",
+                "type": "LECTURE",
+                "weeks": [
+                    5,
+                    7
+                ],
+                "courses": [
+                    "c3",
+                    "c4",
+                    "s5",
+                    "r5",
+                    "a5",
+                    "j3",
+                    "j4",
+                    "v5"
+                ],
+                "rooms": [
+                    "308"
+                ],
+                "lecturers": [],
+                "startTime": "15:00",
+                "endTime": "16:00"
+            },
+            {
+                "day": "WEDNESDAY",
+                "subjectId": null,
+                "subjectName": "Machine Learning Seminar",
+                "type": "LECTURE",
+                "weeks": [
+                    3
+                ],
+                "courses": [
+                    "c3",
+                    "c4",
+                    "s5",
+                    "r5",
+                    "a5",
+                    "j3",
+                    "j4",
+                    "v5"
+                ],
+                "rooms": [
+                    "311"
+                ],
+                "lecturers": [],
+                "startTime": "16:00",
+                "endTime": "17:00"
+            },
+            {
+                "day": "WEDNESDAY",
+                "subjectId": null,
+                "subjectName": "Machine Learning Seminar",
+                "type": "LECTURE",
+                "weeks": [
+                    5,
+                    7
+                ],
+                "courses": [
+                    "c3",
+                    "c4",
+                    "s5",
+                    "r5",
+                    "a5",
+                    "j3",
+                    "j4",
+                    "v5"
+                ],
+                "rooms": [
+                    "308"
+                ],
+                "lecturers": [],
+                "startTime": "16:00",
+                "endTime": "17:00"
+            }
+        ],
+        "THURSDAY": [
+            {
+                "day": "THURSDAY",
+                "subjectId": "350",
+                "subjectName": "Management and Business for Computing Engineers",
+                "type": "LECTURE",
+                "weeks": [
+                    2,
+                    3,
+                    4,
+                    5,
+                    6,
+                    7,
+                    8,
+                    9
+                ],
+                "courses": [
+                    "c3",
+                    "o3",
+                    "j3"
+                ],
+                "rooms": [
+                    "311"
+                ],
+                "lecturers": [],
+                "startTime": "09:00",
+                "endTime": "10:00"
+            },
+            {
+                "day": "THURSDAY",
+                "subjectId": "350",
+                "subjectName": "Management and Business for Computing Engineers",
+                "type": "LECTURE",
+                "weeks": [
+                    2,
+                    3,
+                    4,
+                    5,
+                    6,
+                    7,
+                    8,
+                    9
+                ],
+                "courses": [
+                    "c3",
+                    "o3",
+                    "j3"
+                ],
+                "rooms": [
+                    "311"
+                ],
+                "lecturers": [],
+                "startTime": "10:00",
+                "endTime": "11:00"
+            },
+            {
+                "day": "THURSDAY",
+                "subjectId": "331",
+                "subjectName": "Network and Web Security",
+                "type": "LECTURE",
+                "weeks": [
+                    2,
+                    3,
+                    4,
+                    5,
+                    6,
+                    7,
+                    8,
+                    9
+                ],
+                "courses": [
+                    "c3",
+                    "s5",
+                    "r5",
+                    "o3",
+                    "a5",
+                    "j3",
+                    "j4",
+                    "i4",
+                    "h5"
+                ],
+                "rooms": [
+                    "311"
+                ],
+                "lecturers": [
+                    "Sergio Maffeis"
+                ],
+                "startTime": "11:00",
+                "endTime": "12:00"
+            },
+            {
+                "day": "THURSDAY",
+                "subjectId": "331",
+                "subjectName": "Network and Web Security",
+                "type": "LECTURE",
+                "weeks": [
+                    2
+                ],
+                "courses": [
+                    "c3",
+                    "s5",
+                    "r5",
+                    "o3",
+                    "a5",
+                    "j3",
+                    "j4",
+                    "i4",
+                    "h5"
+                ],
+                "rooms": [
+                    "311"
+                ],
+                "lecturers": [
+                    "Sergio Maffeis"
+                ],
+                "startTime": "12:00",
+                "endTime": "13:00"
+            },
+            {
+                "day": "THURSDAY",
+                "subjectId": "331",
+                "subjectName": "Network and Web Security",
+                "type": "LAB",
+                "weeks": [
+                    3,
+                    4,
+                    5,
+                    6,
+                    7,
+                    8,
+                    9
+                ],
+                "courses": [
+                    "c3",
+                    "s5",
+                    "r5",
+                    "o3",
+                    "a5",
+                    "j3",
+                    "j4",
+                    "i4",
+                    "h5"
+                ],
+                "rooms": [
+                    "219"
+                ],
+                "lecturers": [
+                    "Sergio Maffeis"
+                ],
+                "startTime": "12:00",
+                "endTime": "13:00"
+            },
+            {
+                "day": "THURSDAY",
+                "subjectId": null,
+                "subjectName": "All Student General",
+                "type": "LECTURE",
+                "weeks": [
+                    2,
+                    3,
+                    4,
+                    5,
+                    6,
+                    7,
+                    8,
+                    9
+                ],
+                "courses": [
+                    "s5",
+                    "r5",
+                    "j1",
+                    "j2",
+                    "j3",
+                    "j4",
+                    "c1",
+                    "c2",
+                    "c3",
+                    "c4",
+                    "a5",
+                    "y5",
+                    "v5"
+                ],
+                "rooms": [
+                    "308"
+                ],
+                "lecturers": [
+                    "Alastair F Donaldson"
+                ],
+                "startTime": "13:00",
+                "endTime": "14:00"
+            },
+            {
+                "day": "THURSDAY",
+                "subjectId": "318",
+                "subjectName": "Custom Computing",
+                "type": "",
+                "weeks": [
+                    2,
+                    3,
+                    4,
+                    5,
+                    6,
+                    7,
+                    8,
+                    9
+                ],
+                "courses": [
+                    "c3",
+                    "s5",
+                    "r5",
+                    "a5",
+                    "j3",
+                    "i3",
+                    "h5"
+                ],
+                "rooms": [
+                    "311"
+                ],
+                "lecturers": [
+                    "Wayne Luk",
+                    "Timothy J Todman"
+                ],
+                "startTime": "14:00",
+                "endTime": "15:00"
+            },
+            {
+                "day": "THURSDAY",
+                "subjectId": "318",
+                "subjectName": "Custom Computing",
+                "type": "",
+                "weeks": [
+                    2,
+                    3,
+                    4,
+                    5,
+                    6,
+                    7,
+                    8,
+                    9
+                ],
+                "courses": [
+                    "c3",
+                    "s5",
+                    "r5",
+                    "a5",
+                    "j3",
+                    "i3",
+                    "h5"
+                ],
+                "rooms": [
+                    "311"
+                ],
+                "lecturers": [
+                    "Wayne Luk",
+                    "Timothy J Todman"
+                ],
+                "startTime": "15:00",
+                "endTime": "16:00"
+            },
+            {
+                "day": "THURSDAY",
+                "subjectId": null,
+                "subjectName": "Project Lecture",
+                "type": "LECTURE",
+                "weeks": [
+                    6
+                ],
+                "courses": [
+                    "c3",
+                    "j3"
+                ],
+                "rooms": [
+                    "342"
+                ],
+                "lecturers": [
+                    "Anandha Gopalan"
+                ],
+                "startTime": "16:00",
+                "endTime": "17:00"
+            }
+        ],
+        "FRIDAY": [
+            {
+                "day": "FRIDAY",
+                "subjectId": "304",
+                "subjectName": "Logic-Based Learning",
+                "type": "LECTURE",
+                "weeks": [
+                    2,
+                    3,
+                    4,
+                    5,
+                    6,
+                    7,
+                    8,
+                    9
+                ],
+                "courses": [
+                    "c3",
+                    "s5",
+                    "r5",
+                    "o3",
+                    "a5",
+                    "j3",
+                    "h5",
+                    "v5"
+                ],
+                "rooms": [
+                    "144"
+                ],
+                "lecturers": [
+                    "Stephen H Muggleton",
+                    "Alessandra M Russo"
+                ],
+                "startTime": "09:00",
+                "endTime": "10:00"
+            },
+            {
+                "day": "FRIDAY",
+                "subjectId": "317",
+                "subjectName": "Graphics",
+                "type": "LAB",
+                "weeks": [
+                    2,
+                    3,
+                    4,
+                    5,
+                    6,
+                    7,
+                    8,
+                    9
+                ],
+                "courses": [
+                    "c3",
+                    "s5",
+                    "o3",
+                    "j3",
+                    "i3",
+                    "j4",
+                    "h5",
+                    "v5"
+                ],
+                "rooms": [
+                    "202",
+                    "206"
+                ],
+                "lecturers": [
+                    "Daniel Rueckert"
+                ],
+                "startTime": "09:00",
+                "endTime": "10:00"
+            },
+            {
+                "day": "FRIDAY",
+                "subjectId": "304",
+                "subjectName": "Logic-Based Learning",
+                "type": "LECTURE",
+                "weeks": [
+                    2,
+                    3,
+                    4,
+                    5,
+                    6,
+                    7,
+                    8,
+                    9
+                ],
+                "courses": [
+                    "c3",
+                    "s5",
+                    "r5",
+                    "o3",
+                    "a5",
+                    "j3",
+                    "h5",
+                    "v5"
+                ],
+                "rooms": [
+                    "144"
+                ],
+                "lecturers": [
+                    "Stephen H Muggleton",
+                    "Alessandra M Russo"
+                ],
+                "startTime": "10:00",
+                "endTime": "11:00"
+            },
+            {
+                "day": "FRIDAY",
+                "subjectId": "317",
+                "subjectName": "Graphics",
+                "type": "LAB",
+                "weeks": [
+                    2,
+                    3,
+                    4,
+                    5,
+                    6,
+                    7,
+                    8,
+                    9
+                ],
+                "courses": [
+                    "c3",
+                    "s5",
+                    "o3",
+                    "j3",
+                    "i3",
+                    "j4",
+                    "h5",
+                    "v5"
+                ],
+                "rooms": [
+                    "202",
+                    "206"
+                ],
+                "lecturers": [
+                    "Daniel Rueckert"
+                ],
+                "startTime": "10:00",
+                "endTime": "11:00"
+            },
+            {
+                "day": "FRIDAY",
+                "subjectId": "303",
+                "subjectName": "Systems Verification",
+                "type": "LECTURE",
+                "weeks": [
+                    2,
+                    3,
+                    4,
+                    5,
+                    6,
+                    7,
+                    8,
+                    9
+                ],
+                "courses": [
+                    "c3",
+                    "s5",
+                    "r5",
+                    "o3",
+                    "a5",
+                    "j3",
+                    "h5"
+                ],
+                "rooms": [
+                    "144"
+                ],
+                "lecturers": [
+                    "Alessio R Lomuscio"
+                ],
+                "startTime": "11:00",
+                "endTime": "12:00"
+            },
+            {
+                "day": "FRIDAY",
+                "subjectId": "303",
+                "subjectName": "Systems Verification",
+                "type": "LECTURE",
+                "weeks": [
+                    2,
+                    3,
+                    4,
+                    5,
+                    6,
+                    7,
+                    8,
+                    9
+                ],
+                "courses": [
+                    "c3",
+                    "s5",
+                    "r5",
+                    "o3",
+                    "a5",
+                    "j3",
+                    "h5"
+                ],
+                "rooms": [
+                    "144"
+                ],
+                "lecturers": [
+                    "Alessio R Lomuscio"
+                ],
+                "startTime": "12:00",
+                "endTime": "13:00"
+            },
+            {
+                "day": "FRIDAY",
+                "subjectId": null,
+                "subjectName": "Third Year Townhall Meeting",
+                "type": "",
+                "weeks": [
+                    2
+                ],
+                "courses": [
+                    "c3",
+                    "j3"
+                ],
+                "rooms": [
+                    "342"
+                ],
+                "lecturers": [
+                    "Susan Eisenbach",
+                    "Peter McBrien"
+                ],
+                "startTime": "13:00",
+                "endTime": "14:00"
+            },
+            {
+                "day": "FRIDAY",
+                "subjectId": "333",
+                "subjectName": "Robotics",
+                "type": "LAB",
+                "weeks": [
+                    2,
+                    3,
+                    4,
+                    5,
+                    6,
+                    7,
+                    8,
+                    9
+                ],
+                "courses": [
+                    "c3",
+                    "s5",
+                    "o3",
+                    "j3",
+                    "i3",
+                    "h5",
+                    "v5"
+                ],
+                "rooms": [
+                    "202",
+                    "206"
+                ],
+                "lecturers": [
+                    "Andrew J Davison"
+                ],
+                "startTime": "14:00",
+                "endTime": "15:00"
+            },
+            {
+                "day": "FRIDAY",
+                "subjectId": "333",
+                "subjectName": "Robotics",
+                "type": "LAB",
+                "weeks": [
+                    2,
+                    3,
+                    4,
+                    5,
+                    6,
+                    7,
+                    8,
+                    9
+                ],
+                "courses": [
+                    "c3",
+                    "s5",
+                    "o3",
+                    "j3",
+                    "i3",
+                    "h5",
+                    "v5"
+                ],
+                "rooms": [
+                    "202",
+                    "206"
+                ],
+                "lecturers": [
+                    "Andrew J Davison"
+                ],
+                "startTime": "15:00",
+                "endTime": "16:00"
+            },
+            {
+                "day": "FRIDAY",
+                "subjectId": "341",
+                "subjectName": "Introduction to Bioinformatics",
+                "type": "LECTURE",
+                "weeks": [
+                    2,
+                    3,
+                    4,
+                    5,
+                    6,
+                    7,
+                    8,
+                    9
+                ],
+                "courses": [
+                    "c3",
+                    "s5",
+                    "o3",
+                    "j3",
+                    "i3",
+                    "h5",
+                    "v5"
+                ],
+                "rooms": [
+                    "144"
+                ],
+                "lecturers": [
+                    "Natasa Przulj"
+                ],
+                "startTime": "16:00",
+                "endTime": "17:00"
+            },
+            {
+                "day": "FRIDAY",
+                "subjectId": "341",
+                "subjectName": "Introduction to Bioinformatics",
+                "type": "LECTURE",
+                "weeks": [
+                    2,
+                    3,
+                    4,
+                    5,
+                    6,
+                    7,
+                    8,
+                    9
+                ],
+                "courses": [
+                    "c3",
+                    "s5",
+                    "o3",
+                    "j3",
+                    "i3",
+                    "h5",
+                    "v5"
+                ],
+                "rooms": [
+                    "144"
+                ],
+                "lecturers": [
+                    "Natasa Przulj"
+                ],
+                "startTime": "17:00",
+                "endTime": "18:00"
+            }
+        ]
+    }
+}
