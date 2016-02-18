@@ -4,9 +4,11 @@ import com.corundumstudio.socketio.*;
 import com.corundumstudio.socketio.listener.ConnectListener;
 import com.corundumstudio.socketio.listener.DataListener;
 import com.corundumstudio.socketio.listener.DisconnectListener;
+import com.corundumstudio.socketio.listener.ExceptionListener;
 import com.corundumstudio.socketio.protocol.JacksonJsonSupport;
 import com.google.gson.reflect.TypeToken;
 import io.netty.buffer.ByteBufOutputStream;
+import io.netty.channel.ChannelHandlerContext;
 import li.winston.cateserver.data.Auth;
 import li.winston.cateserver.data.out.timetable.Timetable;
 import li.winston.cateserver.data.out.user.UserInfo;
@@ -78,6 +80,7 @@ public class SessionServer {
 
     public void start() {
         Configuration config = new Configuration();
+        config.getSocketConfig().setReuseAddress(true);
         config.setPort(port);
         config.setJsonSupport(new NonShitJsonSupport());
         if (p12 != null) {
@@ -108,6 +111,45 @@ public class SessionServer {
         } else {
             authMapper = new AuthMapperEmpty();
         }
+        config.setExceptionListener(new ExceptionListener() {
+            @Override
+            public void onEventException(Exception e, List<Object> args, SocketIOClient client) {
+                Log.warn(
+                        "onEventException ("
+                                + client.getRemoteAddress() + "): "
+                                + args,
+                        e
+                );
+            }
+
+            @Override
+            public void onDisconnectException(Exception e, SocketIOClient client) {
+                Log.warn(
+                        "onDisconnectException ("
+                                + client.getRemoteAddress() + ")",
+                        e
+                );
+            }
+
+            @Override
+            public void onConnectException(Exception e, SocketIOClient client) {
+                Log.warn(
+                        "onDisconnectException ("
+                                + client.getRemoteAddress() + ")",
+                        e
+                );
+            }
+
+            @Override
+            public boolean exceptionCaught(ChannelHandlerContext ctx, Throwable e) throws Exception {
+                Log.warn(
+                        "exceptionCaught ("
+                                + ctx.channel().remoteAddress() + ")",
+                        e
+                );
+                return true;
+            }
+        });
         server = new SocketIOServer(config);
         SocketIONamespace v0 = server.addNamespace("/app/cate/api/v0");
         v0.addConnectListener(new ConnectListener() {
