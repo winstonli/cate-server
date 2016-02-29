@@ -226,7 +226,7 @@ public class PageScraper {
     LocalDateTime parseTimetableStartDate(TagNode htmlRoot) {
         TagNode[] trsMain = htmlRoot.getElementsByName("body", false)[0].getElementsByName("table", false)[0].getElementsByName("tbody", false)[0].getElementsByName("tr", false);
 
-        String[] periodTokens = htmlRoot.getElementsByName("h1", true)[0].getText().toString().split(" ");
+        String[] periodTokens = htmlRoot.getElementsByName("h1", true)[0].getText().toString().trim().split("\\s+");
         String period = periodTokens[0].toLowerCase();
         int year = Integer.parseInt(periodTokens[2].split("-")[0]);
 
@@ -238,7 +238,7 @@ public class PageScraper {
 
         int startDay;
 
-        String first = thsDate[1].getText().toString();
+        String first = thsDate[1].getText().toString().trim();
         if (first.isEmpty()) {
             startDay = Integer.parseInt(thsDate[3].getText().toString()) - 2;
         } else {
@@ -273,7 +273,8 @@ public class PageScraper {
         List<Subject> subjects = new ArrayList<Subject>();
 
         for (int i = 0; i < trsMain.length; ++i) {
-            if (trsMain[i].getText().toString().toLowerCase().contains("modules above this line are subscribed to at level 2 or higher;")) {
+            String possibleBreak = trsMain[i].getText().toString().toLowerCase().replaceAll("\\s+", " ");
+            if (possibleBreak.contains("modules above this line are subscribed to at level 2 or higher")) {
                 break;
             }
             TagNode[] tdsTr = trsMain[i].getElementsByName("td", false);
@@ -352,11 +353,11 @@ public class PageScraper {
         Optional<LocalDateTime> after = Optional.empty();
         TagNode tdFirst = tdsExRow[0];
         if (!tdFirst.isEmpty()) {
-            before = Optional.of(LocalDate.parse(tdFirst.getText().toString(), DateTimeFormatter.ofPattern("dMMMyyyy")).atStartOfDay());
+            before = Optional.of(LocalDate.parse(tdFirst.getText().toString().replaceAll("\\s+", ""), DateTimeFormatter.ofPattern("dMMMyyyy")).atStartOfDay());
         }
         TagNode tdLast = tdsExRow[len - 1];
         if (tdLast.hasAttribute("align") && tdLast.getAttributeByName("align").toLowerCase().equals("center")) {
-            after = Optional.of(LocalDate.parse(tdLast.getText().toString(), DateTimeFormatter.ofPattern("dMMMyyyy")).plusDays(1).atStartOfDay());
+            after = Optional.of(LocalDate.parse(tdLast.getText().toString().replaceAll("\\s+", ""), DateTimeFormatter.ofPattern("dMMMyyyy")).plusDays(1).atStartOfDay());
             --len;
         }
         List<Exercise> exercises = new ArrayList<Exercise>();
@@ -375,10 +376,22 @@ public class PageScraper {
                     TagNode[] bs = td.getElementsByName("b", false);
                     String[] seqAndCategory;
                     if (bs.length == 0) {
-                        TagNode span = td.getElementsByName("span", false)[0];
-                        name = span.getAttributeByName("alt");
-                        seqAndCategory = span.getElementsByName("b", false)[0].getText().toString().split(":");
+                        /* There's no first bold element. Either the exercise
+                         * name was too short and so the 1:CW was wrapped in
+                          * a span with alt text, or the exercise had no name */
+                        TagNode[] spans = td.getElementsByName("span", false);
+                        if (spans.length == 0) {
+                            String seqAndCategoryStr = td.getElementsByName("b", true)[0].getText().toString();
+                            name = "No name (" + seqAndCategoryStr + ")";
+                            seqAndCategory = seqAndCategoryStr.split(":");
+                        } else {
+                            TagNode span = td.getElementsByName("span", false)[0];
+                            name = span.getAttributeByName("alt");
+                            seqAndCategory = span.getElementsByName("b", false)[0].getText().toString().split(":");
+                        }
                     } else {
+                        /* The first bold element contains the sequence and
+                        * category, e.g. 1:CW */
                         seqAndCategory = bs[0].getText().toString().split(":");
                     }
                     int seq = Integer.parseInt(seqAndCategory[0]);
@@ -392,7 +405,10 @@ public class PageScraper {
                         String href = aLink.getAttributeByName("href");
                         if (href.startsWith("showfile.cgi")) {
                             specUrl = CateNetTransport.resolveUrl(href);
-                            name = aLink.getText().toString().trim();
+                            /* It could have been a nameless exercise */
+                            if (name == null) {
+                                name = aLink.getText().toString().trim();
+                            }
                         } else if (href.startsWith("given.cgi")) {
                             givenUrl = CateNetTransport.resolveUrl(href);
                         } else if (href.startsWith("handins.cgi")) {

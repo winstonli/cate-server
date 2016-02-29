@@ -1,0 +1,203 @@
+{
+    "today": "2016-02-28T00:00:00Z",
+    "firstDayOfTerm": "2016-01-11T00:00:00Z",
+    "subjects": [
+        {
+            "id": "304",
+            "name": "font",
+            "notesUrl": "https://cate.doc.ic.ac.uk/notes.cgi?key=2015:42:3:c3:new:kmw13",
+            "exercises": [
+                {
+                    "name": "DeductiveAndAbductiveInferences",
+                    "category": "TUT",
+                    "type": "WHITE",
+                    "sequence": 3,
+                    "startTime": "2016-01-22T00:00:00Z",
+                    "endDay": "2016-01-29T00:00:00Z",
+                    "ownerEmail": "ar3@imperial.ac.uk",
+                    "handinUrl": null,
+                    "givenUrl": "https://cate.doc.ic.ac.uk/given.cgi?key=2015:3:462:c3:new:kmw13",
+                    "specUrl": "https://cate.doc.ic.ac.uk/showfile.cgi?key=2015:3:847:c3:SPECS:kmw13"
+                },
+                {
+                    "name": "CW1-LearningDefiniteProgram",
+                    "category": "CW",
+                    "type": "GREEN",
+                    "sequence": 1,
+                    "startTime": "2016-02-02T00:00:00Z",
+                    "endDay": "2016-02-11T00:00:00Z",
+                    "ownerEmail": "ar3@imperial.ac.uk",
+                    "handinUrl": null,
+                    "givenUrl": null,
+                    "specUrl": "https://cate.doc.ic.ac.uk/showfile.cgi?key=2015:3:918:c3:SPECS:kmw13"
+                },
+                {
+                    "name": "Brave and Cautious Induction ASPAL and Learning from Answer Sets",
+                    "category": "TUT",
+                    "type": "WHITE",
+                    "sequence": 7,
+                    "startTime": "2016-02-15T00:00:00Z",
+                    "endDay": "2016-02-23T00:00:00Z",
+                    "ownerEmail": "ml1909@imperial.ac.uk",
+                    "handinUrl": null,
+                    "givenUrl": "https://cate.doc.ic.ac.uk/given.cgi?key=2015:3:536:c3:new:kmw13",
+                    "specUrl": "https://cate.doc.ic.ac.uk/showfile.cgi?key=2015:3:1077:c3:SPECS:kmw13"
+                },
+                {
+                    "name": "OPL and non-OPL based on Inverse Entailment",
+                    "category": "TUT",
+                    "type": "WHITE",
+                    "sequence": 4,
+                    "startTime": "2016-01-27T00:00:00Z",
+                    "endDay": "2016-02-03T00:00:00Z",
+                    "ownerEmail": "ar3@imperial.ac.uk",
+                    "handinUrl": null,
+                    "givenUrl": "https://cate.doc.ic.ac.uk/given.cgi?key=2015:3:491:c3:new:kmw13",
+                    "specUrl": "https://cate.doc.ic.ac.uk/showfile.cgi?key=2015:3:897:c3:SPECS:kmw13"
+                },
+                {
+                    "name": "Top-directed Abductive Learning",
+                    "category": "TUT",
+                    "type": "WHITE",
+                    "sequence": 5,
+                    "startTime": "2016-02-05T00:00:00Z",
+                    "endDay": "2016-02-12T00:00:00Z",
+                    "ownerEmail": "ar3@imperial.ac.uk",
+                    "handinUrl": null,
+                    "givenUrl": "https://cate.doc.ic.ac.uk/given.cgi?key=2015:3:512:c3:new:kmw13",
+                    "specUrl": "https://cate.doc.ic.ac.uk/showfile.cgi?key=2015:3:980:c3:SPECS:kmw13"
+                },
+                {
+                    "name": "CW2-LearningInASP",
+                    "category": "CW",
+                    "type": "GREEN",
+                    "sequence": 2,
+                    "startTime": "2016-02-19T00:00:00Z",
+                    "endDay": "2016-03-03T00:00:00Z",
+                    "ownerEmail": "ar3@imperial.ac.uk",
+                    "handinUrl": "https://cate.doc.ic.ac.uk/handins.cgi?key=2015:3:440:c3:new:kmw13",
+                    "givenUrl": "https://cate.doc.ic.ac.uk/given.cgi?key=2015:3:440:c3:new:kmw13",
+                    "specUrl": "https://cate.doc.ic.ac.uk/showfile.cgi?key=2015:3:1101:c3:SPECS:kmw13"
+                },
+                {
+                    "name": "Answer Set Programming",
+                    "category": "TUT",
+                    "type": "WHITE",
+                    "sequence": 6,
+                    "startTime": "2016-02-08T00:00:00Z",
+                    "endDay": "2016-02-16T00:00:00Z",
+                    "ownerEmail": "ml1909@imperial.ac.uk",
+                    "handinUrl": null,
+                    "givenUrl": "https://cate.doc.ic.ac.uk/given.cgi?key=2015:3:522:c3:new:kmw13",
+                    "specUrl": "https://cate.doc.ic.ac.uk/showfile.cgi?key=2015:3:1015:c3:SPECS:kmw13"
+                }
+            ]
+        },
+        {
+            "id": "333",
+            "name": "font",
+            "notesUrl": null,
+            "exercises": [
+                {
+                    "name": "Cumulative Practicals",
+                    "category": "LAB",
+                    "type": "PINK",
+                    "sequence": 1,
+                    "startTime": "2016-01-26T00:00:00Z",
+                    "endDay": "2016-03-12T00:00:00Z",
+                    "ownerEmail": "ajd@imperial.ac.uk",
+                    "handinUrl": "https://cate.doc.ic.ac.uk/handins.cgi?key=2015:3:446:c3:new:kmw13",
+                    "givenUrl": null,
+                    "specUrl": null
+                }
+            ]
+        },
+        {
+            "id": "341",
+            "name": "font",
+            "notesUrl": "https://cate.doc.ic.ac.uk/notes.cgi?key=2015:54:3:c3:new:kmw13",
+            "exercises": [
+                {
+                    "name": "No name (1:CW)",
+                    "category": "CW",
+                    "type": "GREEN",
+                    "sequence": 1,
+                    "startTime": "2016-02-16T00:00:00Z",
+                    "endDay": "2016-03-08T00:00:00Z",
+                    "ownerEmail": "fs@imperial.ac.uk",
+                    "handinUrl": "https://cate.doc.ic.ac.uk/handins.cgi?key=2015:3:557:c3:new:kmw13",
+                    "givenUrl": null,
+                    "specUrl": "https://cate.doc.ic.ac.uk/showfile.cgi?key=2015:3:1150:c3:SPECS:kmw13"
+                }
+            ]
+        },
+        {
+            "id": "350",
+            "name": "font",
+            "notesUrl": "https://cate.doc.ic.ac.uk/notes.cgi?key=2015:58:3:c3:new:kmw13",
+            "exercises": [
+                {
+                    "name": "Business Plan",
+                    "category": "CW",
+                    "type": "PINK",
+                    "sequence": 1,
+                    "startTime": "2016-02-19T00:00:00Z",
+                    "endDay": "2016-02-26T00:00:00Z",
+                    "ownerEmail": "axgopala@imperial.ac.uk",
+                    "handinUrl": null,
+                    "givenUrl": null,
+                    "specUrl": null
+                },
+                {
+                    "name": "Final Presentaton",
+                    "category": "CW",
+                    "type": "PINK",
+                    "sequence": 2,
+                    "startTime": "2016-02-22T00:00:00Z",
+                    "endDay": "2016-03-01T00:00:00Z",
+                    "ownerEmail": "axgopala@imperial.ac.uk",
+                    "handinUrl": "https://cate.doc.ic.ac.uk/handins.cgi?key=2015:3:556:c3:new:kmw13",
+                    "givenUrl": null,
+                    "specUrl": null
+                }
+            ]
+        },
+        {
+            "id": "356",
+            "name": "font",
+            "notesUrl": null,
+            "exercises": []
+        },
+        {
+            "id": "362",
+            "name": "font",
+            "notesUrl": null,
+            "exercises": [
+                {
+                    "name": "Project Report",
+                    "category": "REP",
+                    "type": "PINK",
+                    "sequence": 1,
+                    "startTime": "2015-10-12T00:00:00Z",
+                    "endDay": "2016-01-12T00:00:00Z",
+                    "ownerEmail": "axgopala@imperial.ac.uk",
+                    "handinUrl": null,
+                    "givenUrl": null,
+                    "specUrl": null
+                },
+                {
+                    "name": "Project Archive",
+                    "category": "PROJ",
+                    "type": "GREY",
+                    "sequence": 2,
+                    "startTime": "2015-10-12T00:00:00Z",
+                    "endDay": "2016-01-21T00:00:00Z",
+                    "ownerEmail": "axgopala@imperial.ac.uk",
+                    "handinUrl": null,
+                    "givenUrl": null,
+                    "specUrl": null
+                }
+            ]
+        }
+    ]
+}

@@ -114,6 +114,14 @@ public class PageScraperTest {
     }
 
     @Test
+    public void testParseTimetableCrash28022016() throws Exception {
+        InputStream in = getStream("/li/winston/cateserver/scraper/timetable_crash-28022016.html");
+        Work work = pageScraper.parseWork(in);
+        Work expected = fromJsonFile("/li/winston/cateserver/scraper/timetable_crash-28022016.json", Work.class);
+        assertEquals(expected, work);
+    }
+
+    @Test
     public void testStartDate2012Autumn() throws IOException {
         InputStream in = getStream("/li/winston/cateserver/scraper/timetable_2012-1.html");
         LocalDateTime startDate = pageScraper.parseTimetableStartDate(new HtmlCleaner().clean(in));
